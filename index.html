@@ -8,6 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <link rel="stylesheet" href="https://npmcdn.com/basscss@7.1.1/css/basscss.min.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css">
     <title>{{ site.title }}</title>
     <meta name="description" content="">
     <meta name="author" content="Brian Zelip">
@@ -20,6 +21,7 @@
       .justify-between { justify-content: space-between; }
       .pt2 { padding-top: 1rem; }
       .pb3 { padding-bottom: 2rem; }
+      .pr1 { padding-right: .5rem; }
     </style>
   </head>
 
@@ -41,10 +43,34 @@
 
     <section>
       <ul>
-        <li>tag 1</li>
-        <li>tag 2</li>
-        <li>tag 3</li>
+        {% for post in site.posts %}
+        <li>
+          <div>
+            <p>Post <em>{{ post.title }}</em> has the following tags:</p>
+            <ul>
+              {% for tag in post.tags %}
+              <li>{{ tag }}</li>
+              {% endfor %}
+            </ul>
+          </div>
+        </li>
+        {% endfor %}
       </ul>
+    </section>
+
+    <section>
+      {% capture list %}
+      <ol>
+        {% for post in site.posts %}
+          {% for tag in post.tags %}
+            <li><a href="#{{ tag }}">{{ tag }}</a></li>
+          {% endfor %}
+        {% endfor %}
+      </ol>
+      {% endcapture %}
+      {% assign tag_list = list %}
+      <p class="red">{{ tag_list }} AND {{ list }}</p>
+      <p>{{ tag_list | strip | replace: '<li>', '"' | replace: '</li>', '"' | replace: ' ', '+' }}</p>
     </section>
 
     <main>

@@ -3,11 +3,10 @@
       <h1 class="h2 mt0"><a href="{{ post.link }}">{{ post.title }}</a></h1>
       <p class="m0">by <span class="source">{{ post.author}}</span>, on <span class="date">{{ post.date }}</span>, in <span class="source">{{ post.source }}</span></p>
       <div class="mt2 mb2">
-        <span>tags: </span>
         <ul class="list-reset inline">
           {% for tag in post.tags %}
           <li class="inline">
-            <a href="">{{ tag }}</a> |
+            <a href="" class="pr1"><i class="fa fa-tag"></i> {{ tag }}</a>
           </li>
           {% endfor %}
         </ul>
