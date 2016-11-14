@@ -1,0 +1,22 @@
+{
+  "name": "syllabusforamerica.github.io",
+  "version": "0.1.0",
+  "description": "Paying attention to the impact of the 2016 US presidential election.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/syllabusforamerica/syllabusforamerica.github.io.git"
+  },
+  "author": "bzelip",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/syllabusforamerica/syllabusforamerica.github.io/issues"
+  },
+  "homepage": "https://github.com/syllabusforamerica/syllabusforamerica.github.io#readme",
+  "devDependencies": {
+    "slug": "^0.9.1"
+  }
+}

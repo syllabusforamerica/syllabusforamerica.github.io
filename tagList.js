@@ -1,3 +1,7 @@
+var slug = require('slug');
+var print = console.log.bind(console, '>');
+print(slug('i ♥ unicode'));
+
 const articles = [
   {
     "link": "http://www.nytimes.com/2016/11/11/magazine/a-time-for-refusal.html?_r=0",
@@ -38,8 +42,9 @@ const articles = [
 ];
 
 function tagList(articles) {
-  // set up the tags array and the user filters input array
+  // set up the tags array, slug tags array, and the user filters input array
   let tags = [];
+  let slugTags = [];
   let filters = [];
 
 
@@ -49,11 +54,14 @@ function tagList(articles) {
       //console.log(articles[i]["tags"][x]);
       if (tags.indexOf(articles[i]["tags"][x]) === -1) {
         tags.push(articles[i]["tags"][x]);
+        slugTags.push(slug(articles[i]["tags"][x]));
       }
     }
   }
 
   console.log('the tags array is: ' + tags);
+  return slugTags;
 }
 
 tagList(articles);
+print(tagList(articles));

@@ -60,13 +60,13 @@
 
     <section>
       {% capture list %}
-      <ol>
+
         {% for post in site.posts %}
           {% for tag in post.tags %}
-            <li><a href="#{{ tag }}">{{ tag }}</a></li>
+            {{ tag | strip | split: " "}}
           {% endfor %}
         {% endfor %}
-      </ol>
+
       {% endcapture %}
       {% assign tag_list = list %}
       <p class="red">{{ tag_list }} AND {{ list }}</p>
