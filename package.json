@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/syllabusforamerica/syllabusforamerica.github.io#readme",
   "devDependencies": {
+    "jquery": "^3.1.1",
     "slug": "^0.9.1"
   }
 }
