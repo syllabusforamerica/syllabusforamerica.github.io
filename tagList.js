@@ -31,7 +31,7 @@ const articles = [
     "link": "http://www.bonappetit.com/story/restaurant-industry-under-trump-presidency",
     "title": "What Will a Trump Presidency Mean for the Restaurant Industry?",
     "source": "Bon Appetit",
-    "tags": ["undocumented immigrants", "deportation", "restaurant industry", "trump"],
+    "tags": ["Undocumented immigrants", "Deportation", "restaurant industry", "trump"],
     "author": "Benjamin Miller",
     "date": "2016-11-11",
     "abstract": "Writen by a white male citizen who owns a restaurant with his wife, who is an undocumented immigrant from Mexico, the article explores their initial rections to a Trump presidency.",
@@ -54,7 +54,7 @@ function tagList(articles) {
       //console.log(articles[i]["tags"][x]);
       if (tags.indexOf(articles[i]["tags"][x]) === -1) {
         tags.push(articles[i]["tags"][x]);
-        slugTags.push(slug(articles[i]["tags"][x]));
+        slugTags.push(slug(articles[i]["tags"][x].toLowerCase()));
       }
     }
   }
@@ -65,3 +65,17 @@ function tagList(articles) {
 
 tagList(articles);
 print(tagList(articles));
+
+function getArticleTags(article) {
+  // set up tags array
+  var tags = [];
+
+  for (i=0; i<article["tags"].length; i++) {
+    tags.push(slug(article["tags"][i].toLowerCase()));
+  }
+
+  console.log(tags);
+  return tags;
+}
+
+getArticleTags(articles[2]);
