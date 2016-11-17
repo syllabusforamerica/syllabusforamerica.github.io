@@ -41,47 +41,19 @@
       </div>
     </header>
 
-    <section>
-      <ul>
-        {% for post in site.posts %}
-        <li>
-          <div>
-            <p>Post <em>{{ post.title }}</em> has the following tags:</p>
-            <ul>
-              {% for tag in post.tags %}
-              <li>{{ tag }}</li>
-              {% endfor %}
-            </ul>
-          </div>
-        </li>
-        {% endfor %}
-      </ul>
-    </section>
+    <div class="pt2">
+      <div class="container flex">
 
-    <section>
-      {% capture list %}
+        <section class="flex-grow mr2">
+          {% include tags.html %}
+        </section>
 
-        {% for post in site.posts %}
-          {% for tag in post.tags %}
-            {{ tag | strip | split: " "}}
-          {% endfor %}
-        {% endfor %}
+        <main>
+          {% include items.html %}
+        </main>
 
-      {% endcapture %}
-      {% assign tag_list = list %}
-      <p class="red">{{ tag_list }} AND {{ list }}</p>
-      <p>{{ tag_list | strip | replace: '<li>', '"' | replace: '</li>', '"' | replace: ' ', '+' }}</p>
-    </section>
-
-    <main>
-      <div class="p2">
-        <div class="container">
-          {% for post in site.posts %}
-          {% include entry.html %}
-          {% endfor %}
-        </div>
       </div>
-    </main>
+    </div>
 
   </body>
 

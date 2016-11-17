@@ -1,0 +1,7 @@
+<div>
+  <ul class="list-reset">
+    {% for tag in site.data.zoteroTags %}
+    <li><a href="https://www.zotero.org/groups/syllabusforamerica/items/tag/{{ tag.tag }}"><i class="fa fa-tag"></i> {{ tag.tag }}</a></li>
+    {% endfor %}
+  </ul>
+</div>

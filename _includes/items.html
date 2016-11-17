@@ -1,0 +1,25 @@
+<div>
+{% for item in site.data.zoteroItems %}
+  {% if item.links.up == null  %}
+  <article id="id-{{ item.key }}" class="pb3">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="{{ item.links.alternate.href }}">{{ item.data.title }}</a></h1>
+        <p class="m0">by <span class="source">{{ item.data.creators.firstName }} {{ item.data.creators.lastName }}</span>, on <span class="date">{{ item.data.date }}</span>, in <span class="source">{{ item.data.publicationTitle }}</span></p>
+        <div class="mt2 mb2">
+          <ul class="list-reset inline">
+            {% for tag in item.data.tags %}
+            <li class="inline">
+              <a href="" class="pr1"><i class="fa fa-tag"></i> {{ tag.tag }}</a>
+            </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <!-- <p class="abstract">{{ item.abstract }}</p>
+        <p class="quote">{{ item.quote }}</p>
+        <p class="comment">{{ item.comment }}</p>
+        <p class="seeAlso">{{ item.seeAlso }}</p> -->
+    </div>
+  </article>
+  {% endif %}
+{% endfor %}
+</div>

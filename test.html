@@ -1,0 +1,19 @@
+---
+layout: default
+---
+<ol>
+  {% for item in site.data.zoteroItems %}
+
+  {% if item.links.up == null %}
+  <li>GNARLY DUDE, {{ item.key}} IS A PARENT!!</li>
+  {% endif %}
+
+  {% endfor %}
+
+</ol>
+
+<!-- <ol>
+  {%for item in site.data.zoteroItems %}
+  <li>{{item.key}}</li>
+  {%endfor%}
+</ol> -->

@@ -1,0 +1,1186 @@
+[
+    {
+        "key": "7KIRP495",
+        "version": 18,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/7KIRP495",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/7KIRP495",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/8QQGN5J9",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "7KIRP495",
+            "version": 18,
+            "parentItem": "8QQGN5J9",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Washington Post Snapshot",
+            "accessDate": "2016-11-16T18:01:26Z",
+            "url": "https://www.washingtonpost.com/blogs/compost/wp/2016/11/15/give-steve-bannon-a-chance-its-not-like-hes-literally-joseph-goebbels/?utm_term=.344fa86f40af",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "give-steve-bannon-a-chance-its-not-like-hes-literally-joseph-goebbels.html",
+            "md5": "bf4a08eff43f4f23330974639d31c245",
+            "mtime": 1479319286000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-16T18:01:26Z",
+            "dateModified": "2016-11-16T18:01:26Z"
+        }
+    },
+    {
+        "key": "8QQGN5J9",
+        "version": 17,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/8QQGN5J9",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/8QQGN5J9",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Petri",
+            "parsedDate": "2016-11-15",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "8QQGN5J9",
+            "version": 17,
+            "itemType": "newspaperArticle",
+            "title": "Give Steve Bannon a chance. It’s not like he’s literally Joseph Goebbels.",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Alexandra",
+                    "lastName": "Petri"
+                }
+            ],
+            "abstractNote": "Courage!",
+            "publicationTitle": "The Washington Post",
+            "place": "",
+            "edition": "",
+            "date": "2016-11-15",
+            "section": "",
+            "pages": "",
+            "language": "en-US",
+            "shortTitle": "",
+            "ISSN": "0190-8286",
+            "url": "https://www.washingtonpost.com/blogs/compost/wp/2016/11/15/give-steve-bannon-a-chance-its-not-like-hes-literally-joseph-goebbels/?utm_term=.344fa86f40af",
+            "accessDate": "2016-11-16T18:01:25Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "washingtonpost.com",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Steve Bannon"
+                },
+                {
+                    "tag": "humor"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-16T18:01:25Z",
+            "dateModified": "2016-11-16T18:01:25Z"
+        }
+    },
+    {
+        "key": "DGJJJNKM",
+        "version": 15,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/DGJJJNKM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/DGJJJNKM",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Coates",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "DGJJJNKM",
+            "version": 15,
+            "itemType": "book",
+            "title": "Between the World and Me",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ta-Nehisi",
+                    "lastName": "Coates"
+                }
+            ],
+            "abstractNote": "In a series of essays, written as a letter to his son, Coates confronts the notion of race in America and how it has shaped American hist...",
+            "series": "",
+            "seriesNumber": "",
+            "volume": "",
+            "numberOfVolumes": "",
+            "edition": "",
+            "place": "",
+            "publisher": "",
+            "date": "",
+            "numPages": "",
+            "language": "",
+            "ISBN": "",
+            "shortTitle": "",
+            "url": "http://www.goodreads.com/work/best_book/44848425-between-the-world-and-me",
+            "accessDate": "2016-11-16T17:34:24Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [
+                "JDP77F96"
+            ],
+            "relations": {},
+            "dateAdded": "2016-11-16T17:34:24Z",
+            "dateModified": "2016-11-16T17:35:08Z"
+        }
+    },
+    {
+        "key": "A6CESKS5",
+        "version": 16,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/A6CESKS5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/A6CESKS5",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/DGJJJNKM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "A6CESKS5",
+            "version": 16,
+            "parentItem": "DGJJJNKM",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-16T17:34:24Z",
+            "url": "http://www.goodreads.com/book/show/25489625-between-the-world-and-me",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "25489625-between-the-world-and-me.html",
+            "md5": "62dda37777bbf449a98bf6840f8bfc68",
+            "mtime": 1479317666000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-16T17:34:24Z",
+            "dateModified": "2016-11-16T17:34:24Z"
+        }
+    },
+    {
+        "key": "STMXQJUN",
+        "version": 16,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/STMXQJUN",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/STMXQJUN",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/T3VPTHJV",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "STMXQJUN",
+            "version": 16,
+            "parentItem": "T3VPTHJV",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-16T17:33:04Z",
+            "url": "https://newrepublic.com/article/138757/obama-warning-america-trumps-presidency-listening",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "obama-warning-america-trumps-presidency-listening.html",
+            "md5": "a270ab3eefe381a5b79fcd924c39ec24",
+            "mtime": 1479317585000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-16T17:33:04Z",
+            "dateModified": "2016-11-16T17:33:04Z"
+        }
+    },
+    {
+        "key": "T3VPTHJV",
+        "version": 15,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/T3VPTHJV",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/T3VPTHJV",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Beutler",
+            "parsedDate": "2016-11-15",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "T3VPTHJV",
+            "version": 15,
+            "itemType": "webpage",
+            "title": "Obama Is Warning America About Trump’s Presidency. Are You Listening?",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Brian",
+                    "lastName": "Beutler"
+                }
+            ],
+            "abstractNote": "His remarks on Monday contained some of the most terrifying words since the election results were announced.",
+            "websiteTitle": "New Republic",
+            "websiteType": "",
+            "date": "2016-11-15",
+            "shortTitle": "",
+            "url": "https://newrepublic.com/article/138757/obama-warning-america-trumps-presidency-listening",
+            "accessDate": "2016-11-16T17:33:04Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-16T17:33:04Z",
+            "dateModified": "2016-11-16T17:33:04Z"
+        }
+    },
+    {
+        "key": "P62BQMSP",
+        "version": 14,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/P62BQMSP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/P62BQMSP",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/NQ3SVTZR",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "P62BQMSP",
+            "version": 14,
+            "parentItem": "NQ3SVTZR",
+            "itemType": "note",
+            "note": "<p> <span style=\"font-family:'Helvetica Neue';font-size:14px;\">\"I appreciate your forced optimism Bernie, but we can be sure he won't actually do any of that. He has already proposed the CEO of Stanley Morgan as Secretary of Treasury. It remains business as usual.”</span> -Chase</p>",
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:37:28Z",
+            "dateModified": "2016-11-15T00:37:34Z"
+        }
+    },
+    {
+        "key": "PNENNAPF",
+        "version": 13,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/PNENNAPF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/PNENNAPF",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Rensin",
+            "parsedDate": "2016-04-21",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "PNENNAPF",
+            "version": 13,
+            "itemType": "webpage",
+            "title": "The smug style in American liberalism",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Emmett",
+                    "lastName": "Rensin"
+                }
+            ],
+            "abstractNote": "How liberals came to look down on the people they once tried to help.",
+            "websiteTitle": "Vox",
+            "websiteType": "",
+            "date": "2016-04-21T08:20:03-04:00",
+            "shortTitle": "",
+            "url": "http://www.vox.com/2016/4/21/11451378/smug-american-liberalism",
+            "accessDate": "2016-11-15T00:34:55Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Democratic Party"
+                },
+                {
+                    "tag": "Elitism"
+                },
+                {
+                    "tag": "Liberalism"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:34:55Z",
+            "dateModified": "2016-11-15T00:34:55Z"
+        }
+    },
+    {
+        "key": "S5PMUTAT",
+        "version": 10,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/S5PMUTAT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/S5PMUTAT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/PNENNAPF",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "S5PMUTAT",
+            "version": 10,
+            "parentItem": "PNENNAPF",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-15T00:34:55Z",
+            "url": "http://www.vox.com/2016/4/21/11451378/smug-american-liberalism",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "smug-american-liberalism.html",
+            "md5": "ecad050182cf1bbae471a4c707bab711",
+            "mtime": 1479170095000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:34:55Z",
+            "dateModified": "2016-11-15T00:34:55Z"
+        }
+    },
+    {
+        "key": "DUGN8ZBR",
+        "version": 10,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/DUGN8ZBR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/DUGN8ZBR",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/E79XIW97",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "DUGN8ZBR",
+            "version": 10,
+            "parentItem": "E79XIW97",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-15T00:34:18Z",
+            "url": "http://www.dailykos.com/story/2016/11/10/1595617/-The-architect-of-the-most-racist-law-in-modern-American-history-has-been-named-to-Trump-s-team",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "-The-architect-of-the-most-racist-law-in-modern-American-history-has-been-named-to-Trump-s-team.html",
+            "md5": "72e195e48c9b074bc2ac2ef7047d9d9a",
+            "mtime": 1479170059000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:34:18Z",
+            "dateModified": "2016-11-15T00:34:18Z"
+        }
+    },
+    {
+        "key": "E79XIW97",
+        "version": 8,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/E79XIW97",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/E79XIW97",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "E79XIW97",
+            "version": 8,
+            "itemType": "webpage",
+            "title": "The architect of the most racist law in modern American history has been named to Trump's team",
+            "creators": [],
+            "abstractNote": "Kris Kobach, the extremely controversial Kansas secretary of state, has been named to Donald Trump's transition team.  \n\n \n Kansas Secretary of State Kris Kobach has been asked to join President-elect Donald Trump’s transition team. \n\n The team will...",
+            "websiteTitle": "Daily Kos",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "http://www.dailykos.com/story/2016/11/10/1595617/-The-architect-of-the-most-racist-law-in-modern-American-history-has-been-named-to-Trump-s-team",
+            "accessDate": "2016-11-15T00:34:18Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:34:18Z",
+            "dateModified": "2016-11-15T00:34:18Z"
+        }
+    },
+    {
+        "key": "N9XCZ3MQ",
+        "version": 7,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/N9XCZ3MQ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/N9XCZ3MQ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/B7MKEBFU",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "N9XCZ3MQ",
+            "version": 7,
+            "parentItem": "B7MKEBFU",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "New York Times Snapshot",
+            "accessDate": "2016-11-15T00:33:45Z",
+            "url": "http://www.nytimes.com/2016/11/13/business/economy/can-trump-save-their-jobs-theyre-counting-on-it.html",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "can-trump-save-their-jobs-theyre-counting-on-it.html",
+            "md5": "a95eabe5c7fa194031fabe73c5a71eac",
+            "mtime": 1479170026000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:33:45Z",
+            "dateModified": "2016-11-15T00:33:45Z"
+        }
+    },
+    {
+        "key": "B7MKEBFU",
+        "version": 6,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/B7MKEBFU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/B7MKEBFU",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Schwartz",
+            "parsedDate": "2016-11-12",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "B7MKEBFU",
+            "version": 6,
+            "itemType": "newspaperArticle",
+            "title": "Can Trump Save Their Jobs? They’re Counting on It",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Nelson D.",
+                    "lastName": "Schwartz"
+                }
+            ],
+            "abstractNote": "Employees of a Carrier plant that is scheduled to move to Mexico in 2019 say they expect the president-elect to follow through on his vow to come to their aid.",
+            "publicationTitle": "The New York Times",
+            "place": "",
+            "edition": "",
+            "date": "2016-11-12",
+            "section": "",
+            "pages": "",
+            "language": "",
+            "shortTitle": "Can Trump Save Their Jobs?",
+            "ISSN": "0362-4331",
+            "url": "http://www.nytimes.com/2016/11/13/business/economy/can-trump-save-their-jobs-theyre-counting-on-it.html",
+            "accessDate": "2016-11-15T00:33:45Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "NYTimes.com",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Carrier Corp",
+                    "type": 1
+                },
+                {
+                    "tag": "Indiana",
+                    "type": 1
+                },
+                {
+                    "tag": "Labor and Jobs",
+                    "type": 1
+                },
+                {
+                    "tag": "Mexico",
+                    "type": 1
+                },
+                {
+                    "tag": "Presidential Election of 2016",
+                    "type": 1
+                },
+                {
+                    "tag": "Trump, Donald J",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:33:45Z",
+            "dateModified": "2016-11-15T00:33:45Z"
+        }
+    },
+    {
+        "key": "ZIHAZZHG",
+        "version": 5,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/ZIHAZZHG",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/ZIHAZZHG",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/BG84M4PX",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "ZIHAZZHG",
+            "version": 5,
+            "parentItem": "BG84M4PX",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-15T00:33:08Z",
+            "url": "https://www.washingtonpost.com/politics/trump-and-aides-hedge-on-major-pledges-including-obamacare-and-the-wall/2016/11/11/9196b364-a82f-11e6-8fc0-7be8f848c492_story.html",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "9196b364-a82f-11e6-8fc0-7be8f848c492_story.html",
+            "md5": "8ea5d3e186842b05156a8c9edb2e01e0",
+            "mtime": 1479169988000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:33:08Z",
+            "dateModified": "2016-11-15T00:33:08Z"
+        }
+    },
+    {
+        "key": "BG84M4PX",
+        "version": 4,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/BG84M4PX",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/BG84M4PX",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "BG84M4PX",
+            "version": 4,
+            "itemType": "webpage",
+            "title": "Trump and advisers hedge on major pledges, including Obamacare and the wall",
+            "creators": [],
+            "abstractNote": "The lack of clarity has added to an already chaotic transition after Trump’s upset victory.",
+            "websiteTitle": "Washington Post",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "https://www.washingtonpost.com/politics/trump-and-aides-hedge-on-major-pledges-including-obamacare-and-the-wall/2016/11/11/9196b364-a82f-11e6-8fc0-7be8f848c492_story.html",
+            "accessDate": "2016-11-15T00:33:08Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-15T00:33:08Z",
+            "dateModified": "2016-11-15T00:33:08Z"
+        }
+    },
+    {
+        "key": "H75P4UFF",
+        "version": 3,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/H75P4UFF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/H75P4UFF",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/NQ3SVTZR",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "H75P4UFF",
+            "version": 3,
+            "parentItem": "NQ3SVTZR",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "New York Times Snapshot",
+            "accessDate": "2016-11-14T22:47:57Z",
+            "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html?smprod=nytcore-iphone&smid=nytcore-iphone-share",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "bernie-sanders-where-the-democrats-go-from-here.html",
+            "md5": "566d0b29ef039495ad3fd4df769a218f",
+            "mtime": 1479163678000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-14T22:47:57Z",
+            "dateModified": "2016-11-14T22:47:57Z"
+        }
+    },
+    {
+        "key": "NQ3SVTZR",
+        "version": 2,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/NQ3SVTZR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/NQ3SVTZR",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Sanders",
+            "parsedDate": "2016-11-11",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "NQ3SVTZR",
+            "version": 2,
+            "itemType": "newspaperArticle",
+            "title": "Bernie Sanders: Where the Democrats Go From Here",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Bernie",
+                    "lastName": "Sanders"
+                }
+            ],
+            "abstractNote": "Trump’s victory is saddening, but not surprising.",
+            "publicationTitle": "The New York Times",
+            "place": "",
+            "edition": "",
+            "date": "2016-11-11",
+            "section": "",
+            "pages": "",
+            "language": "",
+            "shortTitle": "Bernie Sanders",
+            "ISSN": "0362-4331",
+            "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
+            "accessDate": "2016-11-14T22:47:57Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "NYTimes.com",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Clinton, Hillary Rodham",
+                    "type": 1
+                },
+                {
+                    "tag": "Democratic Party",
+                    "type": 1
+                },
+                {
+                    "tag": "Presidential Election of 2016",
+                    "type": 1
+                },
+                {
+                    "tag": "Trump, Donald J",
+                    "type": 1
+                },
+                {
+                    "tag": "United States Politics and Government",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-14T22:47:57Z",
+            "dateModified": "2016-11-14T22:47:57Z"
+        }
+    }
+]

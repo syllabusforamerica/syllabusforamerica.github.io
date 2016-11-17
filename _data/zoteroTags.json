@@ -1,0 +1,240 @@
+[
+    {
+        "tag": "Steve Bannon",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Steve+Bannon",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Steve+Bannon",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 0,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "humor",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/humor",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/humor",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 0,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Liberalism",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Liberalism",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Liberalism",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 0,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Elitism",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Elitism",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Elitism",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 0,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Democratic Party",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Democratic+Party",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Democratic+Party",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 0,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Carrier Corp",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Carrier+Corp",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Carrier+Corp",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Indiana",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Indiana",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Indiana",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Labor and Jobs",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Labor+and+Jobs",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Labor+and+Jobs",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Mexico",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Mexico",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Mexico",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Presidential Election of 2016",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Presidential+Election+of+2016",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Presidential+Election+of+2016",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 2
+        }
+    },
+    {
+        "tag": "Trump, Donald J",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Trump%2C+Donald+J",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Trump%2C+Donald+J",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 2
+        }
+    },
+    {
+        "tag": "Clinton, Hillary Rodham",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Clinton%2C+Hillary+Rodham",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Clinton%2C+Hillary+Rodham",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Democratic Party",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Democratic+Party",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Democratic+Party",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "United States Politics and Government",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/United+States+Politics+and+Government",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/United+States+Politics+and+Government",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    }
+]
