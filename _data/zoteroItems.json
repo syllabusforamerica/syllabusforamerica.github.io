@@ -1,5 +1,605 @@
 [
     {
+        "key": "HM7SIBWH",
+        "version": 26,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/HM7SIBWH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/HM7SIBWH",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/W9SJCEBH",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "HM7SIBWH",
+            "version": 26,
+            "parentItem": "W9SJCEBH",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "The Nation Snapshot",
+            "accessDate": "2016-11-18T12:01:04Z",
+            "url": "https://www.thenation.com/print/article/clash-ignorance/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "clash-ignorance.html",
+            "md5": "0865568f687609ad157833cf24f0edb5",
+            "mtime": 1479470465000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T12:01:04Z",
+            "dateModified": "2016-11-18T12:01:04Z"
+        }
+    },
+    {
+        "key": "W9SJCEBH",
+        "version": 27,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/W9SJCEBH",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/W9SJCEBH",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "W9SJCEBH",
+            "version": 27,
+            "itemType": "magazineArticle",
+            "title": "The Clash of Ignorance",
+            "creators": [],
+            "abstractNote": "",
+            "publicationTitle": "The Nation",
+            "volume": "",
+            "issue": "",
+            "date": "",
+            "pages": "",
+            "language": "",
+            "ISSN": "0027-8378",
+            "shortTitle": "",
+            "url": "https://www.thenation.com/article/clash-ignorance/",
+            "accessDate": "2016-11-18T12:01:02Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "The Nation",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Debate on Clash of Civilizations"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T12:01:02Z",
+            "dateModified": "2016-11-18T12:01:02Z"
+        }
+    },
+    {
+        "key": "DTDGSD5C",
+        "version": 24,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/DTDGSD5C",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/DTDGSD5C",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "DTDGSD5C",
+            "version": 24,
+            "itemType": "webpage",
+            "title": "The Clash of Civilizations and the Remaking of World Order",
+            "creators": [],
+            "abstractNote": "First Chapter",
+            "websiteTitle": "",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "http://www.washingtonpost.com/wp-srv/style/longterm/books/chap1/clashofcivilizations.htm",
+            "accessDate": "2016-11-18T11:52:31Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Debate on Clash of Civilizations"
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T11:52:31Z",
+            "dateModified": "2016-11-18T12:00:42Z"
+        }
+    },
+    {
+        "key": "J434BTR7",
+        "version": 23,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/J434BTR7",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/J434BTR7",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/2TCQEJCZ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "J434BTR7",
+            "version": 23,
+            "parentItem": "2TCQEJCZ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-18T11:59:55Z",
+            "url": "https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "clash-civilizations.html",
+            "md5": "d9d6c44bdde940bc96a01e8240b372db",
+            "mtime": 1479470396000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T11:59:55Z",
+            "dateModified": "2016-11-18T11:59:55Z"
+        }
+    },
+    {
+        "key": "2TCQEJCZ",
+        "version": 23,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/2TCQEJCZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/2TCQEJCZ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Huntington and Huntington",
+            "parsedDate": "1993-06-01",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "2TCQEJCZ",
+            "version": 23,
+            "itemType": "magazineArticle",
+            "title": "The Clash of Civilizations?",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Samuel P.",
+                    "lastName": "Huntington"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Samuel P.",
+                    "lastName": "Huntington"
+                }
+            ],
+            "abstractNote": "World politics is entering a new phase, in which the great divisions among humankind and the dominating source of international conflict will be cultural. Civilizations-the highest cultural groupings of people-are differentiated from each other by religion, history, language and tradition. These divisions are deep and increasing in importance. From Yugoslavia to the Middle East to Central Asia, the fault lines of civilizations are the battle lines of the future. In this emerging era of cultural conflict the United States must forge alliances with similar cultures and spread its values wherever possible. With alien civilizations the West must be accommodating if possible, but confrontational if necessary. In the final analysis, however, all civilizations will have to learn to tolerate each other. Subscribe to Foreign Affairs for $32—and receive The Clash of Civilizations?: The Debate absolutely free. This digital reprint includes Huntington's seminal article plus commentary and criticism that it inspired.",
+            "publicationTitle": "Foreign Affairs",
+            "volume": "",
+            "issue": "Summer 1993",
+            "date": "1993/06/01",
+            "pages": "",
+            "language": "",
+            "ISSN": "0015-7120",
+            "shortTitle": "",
+            "url": "https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations",
+            "accessDate": "2016-11-18T11:59:55Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "www.foreignaffairs.com",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Debate on Clash of Civilizations"
+                },
+                {
+                    "tag": "Political Development",
+                    "type": 1
+                },
+                {
+                    "tag": "Politics & Society",
+                    "type": 1
+                },
+                {
+                    "tag": "Samuel P. Huntington",
+                    "type": 1
+                },
+                {
+                    "tag": "Theory",
+                    "type": 1
+                },
+                {
+                    "tag": "United States",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T11:59:55Z",
+            "dateModified": "2016-11-18T11:59:55Z"
+        }
+    },
+    {
+        "key": "HEB9MDQ6",
+        "version": 20,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/HEB9MDQ6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/HEB9MDQ6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/DTDGSD5C",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "HEB9MDQ6",
+            "version": 20,
+            "parentItem": "DTDGSD5C",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "WashingtonPost.com: The Clash of Civilizations and the Remaking of World Order",
+            "accessDate": "2016-11-18T11:52:32Z",
+            "url": "http://www.washingtonpost.com/wp-srv/style/longterm/books/chap1/clashofcivilizations.htm",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "clashofcivilizations.html",
+            "md5": "843732827122fa54c970e3de3576180a",
+            "mtime": 1479469951000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T11:52:32Z",
+            "dateModified": "2016-11-18T11:52:32Z"
+        }
+    },
+    {
+        "key": "T66R78CE",
+        "version": 21,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/T66R78CE",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/T66R78CE",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Rosenberg and Haberman",
+            "parsedDate": "2016-11-17",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "T66R78CE",
+            "version": 21,
+            "itemType": "newspaperArticle",
+            "title": "Trump Is Said to Offer National Security Post to Michael Flynn, Retired General",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Matthew",
+                    "lastName": "Rosenberg"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Maggie",
+                    "lastName": "Haberman"
+                }
+            ],
+            "abstractNote": "The move could put a retired intelligence officer who believes Islamist militancy poses an existential threat in one of the most powerful roles in shaping military and foreign policy.",
+            "publicationTitle": "The New York Times",
+            "place": "",
+            "edition": "",
+            "date": "2016-11-17",
+            "section": "",
+            "pages": "",
+            "language": "",
+            "shortTitle": "",
+            "ISSN": "0362-4331",
+            "url": "http://www.nytimes.com/2016/11/18/us/politics/michael-flynn-national-security-adviser-donald-trump.html",
+            "accessDate": "2016-11-18T11:51:12Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "NYTimes.com",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Appointments and Executive Changes",
+                    "type": 1
+                },
+                {
+                    "tag": "Debate on Clash of Civilizations"
+                },
+                {
+                    "tag": "Flynn, Michael T",
+                    "type": 1
+                },
+                {
+                    "tag": "Trump, Donald J",
+                    "type": 1
+                },
+                {
+                    "tag": "United States Defense and Military Forces",
+                    "type": 1
+                },
+                {
+                    "tag": "United States International Relations",
+                    "type": 1
+                },
+                {
+                    "tag": "United States Politics and Government",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T11:51:12Z",
+            "dateModified": "2016-11-18T11:51:12Z"
+        }
+    },
+    {
+        "key": "7SNSXUVK",
+        "version": 20,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/7SNSXUVK",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/7SNSXUVK",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/T66R78CE",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "7SNSXUVK",
+            "version": 20,
+            "parentItem": "T66R78CE",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "New York Times Snapshot",
+            "accessDate": "2016-11-18T11:51:12Z",
+            "url": "http://www.nytimes.com/2016/11/18/us/politics/michael-flynn-national-security-adviser-donald-trump.html",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "michael-flynn-national-security-adviser-donald-trump.html",
+            "md5": "f18aee3c06a9197ceed259642212a3ef",
+            "mtime": 1479469873000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T11:51:12Z",
+            "dateModified": "2016-11-18T11:51:12Z"
+        }
+    },
+    {
         "key": "7KIRP495",
         "version": 18,
         "library": {

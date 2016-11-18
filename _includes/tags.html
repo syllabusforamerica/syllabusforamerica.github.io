@@ -1,7 +1,12 @@
 <div>
   <ul class="list-reset">
-    {% for tag in site.data.zoteroTags %}
-    <li><a href="https://www.zotero.org/groups/syllabusforamerica/items/tag/{{ tag.tag }}"><i class="fa fa-tag"></i> {{ tag.tag }}</a></li>
+    {% assign tags = site.data.zoteroTags | sort: 'tag' %}
+    {% for tag in tags %}
+    <li><a href="https://www.zotero.org/groups/syllabusforamerica/items/tag/{{ tag.tag }}" class="tag">{{ tag.tag }}</a></li>
     {% endfor %}
   </ul>
 </div>
+
+<!-- References
+    -https://help.shopify.com/themes/liquid/filters/array-filters#sort
+-->

@@ -16,21 +16,97 @@
     <style>
       body,
       .vh100 { min-height: 100vh; }
+      body,
+      a { color: var(--pri-dark); }
       .align-center { align-items: center; }
       .justify-center { justify-content: center; }
       .justify-between { justify-content: space-between; }
       .pt2 { padding-top: 1rem; }
       .pb3 { padding-bottom: 2rem; }
       .pr1 { padding-right: .5rem; }
+      .px2 {
+        padding-right: 1rem;
+        padding-left: 1rem;
+      }
+      .px3 {
+        padding-right: 2rem;
+        padding-left: 2rem;
+      }
+      @custom-media --breakpoint-sm (min-width: 40em);
+      @custom-media --breakpoint-md (min-width: 60em);
+      @custom-media --breakpoint-lg (min-width: 80em);
+      @media (min-width: 40em) {
+        .sm-px3 {
+          padding-right: 2rem;
+          padding-left: 2rem;
+        }
+      }
+      .pri-dark { color: var(--pri-dark); }
+      .pri-light { color: var(--pri-light); }
+      .bg-pri-dark { background-color: var(--pri-dark); }
+      .bg-pri-light { background-color: var(--pri-light); }
+      .container { max-width: var(--container-width); }
+
+      /*
+          TAG styles via http://codepen.io/wbeeftink/pen/dIaDH
+      */
+      .tag {
+        background: #eee;
+        border-radius: 3px 0 0 3px;
+        display: inline-block;
+        padding: 0 1.25rem 0 1.5rem;
+        position: relative;
+        /*margin-bottom: .75rem;*/
+        margin: 0 .625rem .625rem 0;
+        text-decoration: none;
+      }
+      .tag::before {
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+        content: '';
+        height: .375rem;
+        left: .625rem;
+        position: absolute;
+        width: .375rem;
+        top: .625rem;
+      }
+      .tag::after {
+        background: #fff;
+        border-bottom: .813rem solid transparent;
+        border-left: .625rem solid #eee;
+        border-top: .813rem solid transparent;
+        content: '';
+        position: absolute;
+        right: 0;
+        top: 0;
+      }
+      .tag:hover {
+        background-color: var(--pri-dark);
+        color: var(--pri-light);
+        text-decoration: none;
+      }
+      .tag:hover::after { border-left-color: var(--pri-dark); }
+
+      :root {
+        --pri-dark: #4a4b43;
+        --pri-light: #fff;
+        /*--pri-dark: #492a54;*/
+        /*--pri-light: #bad7b0;*/
+        /*--pri-dark: #614d29;*/
+        /*--pri-light: #a2b5d5;*/
+        --container-width: 80rem;
+      }
+
     </style>
   </head>
 
-  <body>
+  <body class="px2 sm-px3 bg-pri-light">
 
     <header>
       <div class="pt2">
         <div class="container">
-          <div class="p2 bg-red flex align-center justify-between">
+          <div class="p2 bg-pri-dark pri-light flex align-center justify-between">
             <h1 class="m0 h3">{{ site.title }}</h1>
             <div>
               <a href="" class="btn">about</a>

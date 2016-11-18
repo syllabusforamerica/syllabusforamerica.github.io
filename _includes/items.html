@@ -4,7 +4,7 @@
   <article id="id-{{ item.key }}" class="pb3">
     <div class="p2 border">
         <h1 class="h2 mt0"><a href="{{ item.links.alternate.href }}">{{ item.data.title }}</a></h1>
-        <p class="m0">by <span class="source">{{ item.data.creators.firstName }} {{ item.data.creators.lastName }}</span>, on <span class="date">{{ item.data.date }}</span>, in <span class="source">{{ item.data.publicationTitle }}</span></p>
+        <p class="m0">by <span class="source">{{ item.data.creators[0].firstName }} {{ item.data.creators[0].lastName }}</span>, on <span class="date">{{ item.data.date | date: "%b %d, %Y"  }}</span>, in <span class="source">{{ item.data.publicationTitle }}</span></p>
         <div class="mt2 mb2">
           <ul class="list-reset inline">
             {% for tag in item.data.tags %}

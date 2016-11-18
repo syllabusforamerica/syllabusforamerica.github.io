@@ -1,5 +1,209 @@
 [
     {
+        "tag": "Debate on Clash of Civilizations",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Debate+on+Clash+of+Civilizations",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Debate+on+Clash+of+Civilizations",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 0,
+            "numItems": 4
+        }
+    },
+    {
+        "tag": "Theory",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Theory",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Theory",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "United States",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/United+States",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/United+States",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Political Development",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Political+Development",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Political+Development",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Politics & Society",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Politics+%26+Society",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Politics+%26+Society",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Samuel P. Huntington",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Samuel+P.+Huntington",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Samuel+P.+Huntington",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Appointments and Executive Changes",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Appointments+and+Executive+Changes",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Appointments+and+Executive+Changes",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Trump, Donald J",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Trump%2C+Donald+J",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Trump%2C+Donald+J",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 3
+        }
+    },
+    {
+        "tag": "United States Defense and Military Forces",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/United+States+Defense+and+Military+Forces",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/United+States+Defense+and+Military+Forces",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "United States International Relations",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/United+States+International+Relations",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/United+States+International+Relations",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "United States Politics and Government",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/United+States+Politics+and+Government",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/United+States+Politics+and+Government",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 2
+        }
+    },
+    {
+        "tag": "Flynn, Michael T",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Flynn%2C+Michael+T",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Flynn%2C+Michael+T",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
         "tag": "Steve Bannon",
         "links": {
             "self": {
@@ -170,23 +374,6 @@
         }
     },
     {
-        "tag": "Trump, Donald J",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Trump%2C+Donald+J",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Trump%2C+Donald+J",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 2
-        }
-    },
-    {
         "tag": "Clinton, Hillary Rodham",
         "links": {
             "self": {
@@ -212,23 +399,6 @@
             },
             "alternate": {
                 "href": "http://zotero.org/groups/814853/tags/Democratic+Party",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "United States Politics and Government",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/United+States+Politics+and+Government",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/United+States+Politics+and+Government",
                 "type": "text/html"
             }
         },
