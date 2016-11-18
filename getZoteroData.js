@@ -82,7 +82,7 @@ function getMainItems() {
 // Invoke each function
 getTags();
 getItems();
-// THIS MAY NOT NEED TO BE USED YET // getMainItems();
+// getMainItems();// THIS MAY NOT NEED TO BE USED
 
 /*
   REFERENCES

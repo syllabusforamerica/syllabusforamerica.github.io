@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <link rel="stylesheet" href="https://npmcdn.com/basscss@7.1.1/css/basscss.min.css">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css">
+    <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/fontawesome/4.7.0/css/font-awesome.min.css"> -->
     <title>{{ site.title }}</title>
     <meta name="description" content="">
     <meta name="author" content="Brian Zelip">
@@ -18,6 +18,7 @@
       .vh100 { min-height: 100vh; }
       body,
       a { color: var(--pri-dark); }
+      .serif { font-family: Athelas, Georgia, serif; }
       .align-center { align-items: center; }
       .justify-center { justify-content: center; }
       .justify-between { justify-content: space-between; }
@@ -48,22 +49,30 @@
       .container { max-width: var(--container-width); }
 
       /*
-          TAG styles via http://codepen.io/wbeeftink/pen/dIaDH
+          Tag styles adapted from http://codepen.io/wbeeftink/pen/dIaDH
       */
       .tag {
         background: #eee;
         border-radius: 3px 0 0 3px;
         display: inline-block;
-        padding: 0 1.25rem 0 1.5rem;
+        padding: 0 .75rem 0 1.5rem;
         position: relative;
-        /*margin-bottom: .75rem;*/
-        margin: 0 .625rem .625rem 0;
         text-decoration: none;
       }
       .tag::before {
         background: #fff;
+        border-bottom: .8rem solid transparent;
+        border-right: .625rem solid #eee;
+        border-top: .8rem solid transparent;
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .tag::after {
+        background: #fff;
         border-radius: 10px;
-        box-shadow: inset 0 1px rgba(0, 0, 0, 0.25);
+        box-shadow: inset 1px 0 rgba(0, 0, 0, 0.25);
         content: '';
         height: .375rem;
         left: .625rem;
@@ -71,22 +80,12 @@
         width: .375rem;
         top: .625rem;
       }
-      .tag::after {
-        background: #fff;
-        border-bottom: .813rem solid transparent;
-        border-left: .625rem solid #eee;
-        border-top: .813rem solid transparent;
-        content: '';
-        position: absolute;
-        right: 0;
-        top: 0;
-      }
       .tag:hover {
         background-color: var(--pri-dark);
         color: var(--pri-light);
         text-decoration: none;
       }
-      .tag:hover::after { border-left-color: var(--pri-dark); }
+      .tag:hover::before { border-right-color: var(--pri-dark); }
 
       :root {
         --pri-dark: #4a4b43;
@@ -110,7 +109,6 @@
             <h1 class="m0 h3">{{ site.title }}</h1>
             <div>
               <a href="" class="btn">about</a>
-              <button class="btn">submit</button>
             </div>
           </div>
         </div>

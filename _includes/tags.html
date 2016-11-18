@@ -2,7 +2,7 @@
   <ul class="list-reset">
     {% assign tags = site.data.zoteroTags | sort: 'tag' %}
     {% for tag in tags %}
-    <li><a href="https://www.zotero.org/groups/syllabusforamerica/items/tag/{{ tag.tag }}" class="tag">{{ tag.tag }}</a></li>
+    <li class="mb1"><a href="https://www.zotero.org/groups/syllabusforamerica/items/tag/{{ tag.tag }}" class="tag">{{ tag.tag }}</a></li>
     {% endfor %}
   </ul>
 </div>

@@ -4,7 +4,8 @@
   "description": "Paying attention to the impact of the 2016 US presidential election.",
   "main": "index.html",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "node getZoteroData.js"
   },
   "repository": {
     "type": "git",
@@ -17,7 +18,6 @@
   },
   "homepage": "https://github.com/syllabusforamerica/syllabusforamerica.github.io#readme",
   "devDependencies": {
-    "jquery": "^3.1.1",
     "request": "^2.78.0",
     "slug": "^0.9.1"
   }
