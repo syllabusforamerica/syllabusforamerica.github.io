@@ -1,7 +1,7 @@
 <div>
 {% for item in site.data.zoteroItems %}
   {% if item.links.up == null  %}
-  <article id="id-{{ item.key }}" class="pb3">
+  <article id="id-{{ item.key }}" class="mb3" data-tags="{% for tag in item.data.tags %}{{ tag.tag | downcase | replace: " ", "-" }}{% if tag != item.data.tags.last %}&nbsp;{% endif %}{% endfor %}">
     <div class="p2 border">
         <h1 class="h2 mt0"><a href="{{ item.data.url }}">{{ item.data.title }}</a></h1>
         <p>
@@ -32,3 +32,8 @@
   {% endif %}
 {% endfor %}
 </div>
+
+<!--
+    REFERENCES
+    - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes
+-->

@@ -49,7 +49,37 @@
       .container { max-width: var(--container-width); }
 
       /*
-          Tag styles adapted from http://codepen.io/wbeeftink/pen/dIaDH
+          button reset adapted from https://github.com/basscss/addons/blob/master/modules/btn/index.css
+      */
+      button {
+        font-family: inherit;
+        font-size: inherit;
+        font-weight: inherit;
+        text-decoration: none;
+        cursor: pointer;
+        line-height: inherit;
+        padding: 0;
+        margin: 0;
+        height: auto;
+        border: none;
+        vertical-align: middle;
+        -webkit-appearance: none;
+        color: inherit;
+        background-color: transparent;
+      }
+      button:hover { text-decoration: none; }
+      button:focus {
+        outline: none;
+        border-color: none;
+        box-shadow: none;
+      }
+      ::-moz-focus-inner {
+        border: 0;
+        padding: 0;
+      }
+
+      /*
+          .tag adapted from http://codepen.io/wbeeftink/pen/dIaDH
       */
       .tag {
         background: #eee;
@@ -84,6 +114,7 @@
         background-color: var(--pri-dark);
         color: var(--pri-light);
         text-decoration: none;
+        cursor: pointer;
       }
       .tag:hover::before { border-right-color: var(--pri-dark); }
 
