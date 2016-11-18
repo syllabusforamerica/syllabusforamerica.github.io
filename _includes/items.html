@@ -5,7 +5,8 @@
     <div class="p2 border">
         <h1 class="h2 mt0"><a href="{{ item.data.url }}">{{ item.data.title }}</a></h1>
         <p>
-          {% if item.data.creators[0].firstName != null and item.data.creators[0].firstName != "" %}by {{ item.data.creators[0].firstName }} {{ item.data.creators[0].lastName }} {% endif %}{% if item.data.date != null and item.data.date != "" %}on {{ item.data.date | date: "%b %d, %Y"  }} {% endif %}{% if item.data.publicationTitle != null and item.data.publicationTitle != "" %}in {{ item.data.publicationTitle }}{% endif %}</p>
+          {% if item.data.creators[0].firstName != null and item.data.creators[0].firstName != "" %}by {{ item.data.creators[0].firstName }} {{ item.data.creators[0].lastName }} {% endif %}{% if item.data.date != null and item.data.date != "" %}on {{ item.data.date | date: "%b %d, %Y"  }} {% endif %}{% if item.data.publicationTitle != null and item.data.publicationTitle != "" %}in {{ item.data.publicationTitle }}{% endif %}
+        </p>
 
         {% if item.data.abstractNote != "" %}
         <div>

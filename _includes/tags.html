@@ -3,7 +3,7 @@
     {% assign tags = site.data.zoteroTags | sort: 'tag' %}
     {% for tag in tags %}
     <li class="mb1">
-      <button class="tag">{{ tag.tag }}</button>
+      <button class="tag" data-filter="{{ tag.tag | downcase | replace: " ", "-" }}">{{ tag.tag }}</button>
     </li>
     {% endfor %}
   </ul>
