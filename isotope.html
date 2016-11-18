@@ -1,0 +1,808 @@
+<!DOCTYPE html>
+<html lang="en-US">
+
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" href="https://npmcdn.com/basscss@7.1.1/css/basscss.min.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/isotope/3.0.1/isotope.pkgd.min.js"></script>
+    <title>A Syllabus for America, 2017- </title>
+    <meta name="description" content="">
+    <meta name="author" content="Brian Zelip">
+    <meta name="keywords" content="">
+    <style>
+      body,
+      .vh100 { min-height: 100vh; }
+      body,
+      a { color: var(--pri-dark); }
+      .serif { font-family: Athelas, Georgia, serif; }
+      .align-center { align-items: center; }
+      .justify-center { justify-content: center; }
+      .justify-between { justify-content: space-between; }
+      .pt2 { padding-top: 1rem; }
+      .pb3 { padding-bottom: 2rem; }
+      .pr1 { padding-right: .5rem; }
+      .px2 {
+        padding-right: 1rem;
+        padding-left: 1rem;
+      }
+      .px3 {
+        padding-right: 2rem;
+        padding-left: 2rem;
+      }
+      @custom-media --breakpoint-sm (min-width: 40em);
+      @custom-media --breakpoint-md (min-width: 60em);
+      @custom-media --breakpoint-lg (min-width: 80em);
+      @media (min-width: 40em) {
+        .sm-px3 {
+          padding-right: 2rem;
+          padding-left: 2rem;
+        }
+      }
+      .pri-dark { color: var(--pri-dark); }
+      .pri-light { color: var(--pri-light); }
+      .bg-pri-dark { background-color: var(--pri-dark); }
+      .bg-pri-light { background-color: var(--pri-light); }
+      .container { max-width: var(--container-width); }
+
+      /*
+          button reset adapted from https://github.com/basscss/addons/blob/master/modules/btn/index.css
+      */
+      button {
+        font-family: inherit;
+        font-size: inherit;
+        font-weight: inherit;
+        text-decoration: none;
+        cursor: pointer;
+        line-height: inherit;
+        padding: 0;
+        margin: 0;
+        height: auto;
+        border: none;
+        vertical-align: middle;
+        -webkit-appearance: none;
+        color: inherit;
+        background-color: transparent;
+      }
+      button:hover { text-decoration: none; }
+      button:focus {
+        outline: none;
+        border-color: none;
+        box-shadow: none;
+      }
+      ::-moz-focus-inner {
+        border: 0;
+        padding: 0;
+      }
+
+      /*
+          Trying isotope on combination filter
+          - http://codepen.io/desandro/pen/zrMXQv
+          - http://isotope.metafizzy.co/filtering.html
+      */
+      .is-checked { background-color: red; }
+
+      /*
+          .tag adapted from http://codepen.io/wbeeftink/pen/dIaDH
+      */
+      .tag {
+        background: #eee;
+        border-radius: 3px 0 0 3px;
+        display: inline-block;
+        padding: 0 .75rem 0 1.5rem;
+        position: relative;
+        text-decoration: none;
+      }
+      .tag::before {
+        background: #fff;
+        border-bottom: .8rem solid transparent;
+        border-right: .625rem solid #eee;
+        border-top: .8rem solid transparent;
+        content: '';
+        position: absolute;
+        left: 0;
+        top: 0;
+      }
+      .tag::after {
+        background: #fff;
+        border-radius: 10px;
+        box-shadow: inset 1px 0 rgba(0, 0, 0, 0.25);
+        content: '';
+        height: .375rem;
+        left: .625rem;
+        position: absolute;
+        width: .375rem;
+        top: .625rem;
+      }
+      .tag:hover {
+        background-color: var(--pri-dark);
+        color: var(--pri-light);
+        text-decoration: none;
+        cursor: pointer;
+      }
+      .tag:hover::before { border-right-color: var(--pri-dark); }
+
+      :root {
+        --pri-dark: #4a4b43;
+        --pri-light: #fff;
+        /*--pri-dark: #492a54;*/
+        /*--pri-light: #bad7b0;*/
+        /*--pri-dark: #614d29;*/
+        /*--pri-light: #a2b5d5;*/
+        --container-width: 80rem;
+      }
+
+    </style>
+  </head>
+
+  <body class="px2 sm-px3 bg-pri-light">
+
+    <header>
+      <div class="pt2">
+        <div class="container">
+          <div class="p2 bg-pri-dark pri-light flex align-center justify-between">
+            <h1 class="m0 h3">A Syllabus for America, 2017- </h1>
+            <div>
+              <a href="" class="btn">about</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
+
+    <div class="pt2">
+      <div class="container flex">
+
+        <section class="flex-grow mr2">
+          <div>
+  <ul class="list-reset">
+
+
+    <li class="mb1">
+      <button class="tag">Appointments and Executive Changes</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Carrier Corp</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Clinton, Hillary Rodham</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Debate on Clash of Civilizations</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Democratic Party</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Democratic Party</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Elitism</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Flynn, Michael T</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Indiana</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Labor and Jobs</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Liberalism</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Mexico</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Political Development</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Politics & Society</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Presidential Election of 2016</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Samuel P. Huntington</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Steve Bannon</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Theory</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">Trump, Donald J</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">United States</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">United States Defense and Military Forces</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">United States International Relations</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">United States Politics and Government</button>
+    </li>
+
+    <li class="mb1">
+      <button class="tag">humor</button>
+    </li>
+
+  </ul>
+</div>
+
+<!--
+    REFERENCES
+    -https://help.shopify.com/themes/liquid/filters/array-filters#sort
+-->
+
+        </section>
+
+        <main>
+          <div>
+
+
+
+
+  <article id="id-W9SJCEBH" class="mb3" data-tags="debate-on-clash-of-civilizations">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="https://www.thenation.com/article/clash-ignorance/">The Clash of Ignorance</a></h1>
+        <p>
+          in The Nation</p>
+
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Debate on Clash of Civilizations</a>
+            </li>
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+  <article id="id-DTDGSD5C" class="mb3" data-tags="debate-on-clash-of-civilizations">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="http://www.washingtonpost.com/wp-srv/style/longterm/books/chap1/clashofcivilizations.htm">The Clash of Civilizations and the Remaking of World Order</a></h1>
+        <p>
+          </p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>First Chapter</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Debate on Clash of Civilizations</a>
+            </li>
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+  <article id="id-2TCQEJCZ" class="mb3" data-tags="debate-on-clash-of-civilizations&nbsp;political-development&nbsp;politics-&-society&nbsp;samuel-p.-huntington&nbsp;theory&nbsp;united-states">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="https://www.foreignaffairs.com/articles/united-states/1993-06-01/clash-civilizations">The Clash of Civilizations?</a></h1>
+        <p>
+          by Samuel P. Huntington on Jun 01, 1993 in Foreign Affairs</p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>World politics is entering a new phase, in which the great divisions among humankind and the dominating source of international conflict will be cultural. Civilizations-the highest cultural groupings of people-are differentiated from each other by religion, history, language and tradition. These divisions are deep and increasing in importance. From Yugoslavia to the Middle East to Central Asia, the fault lines of civilizations are the battle lines of the future. In this emerging era of cultural conflict the United States must forge alliances with similar cultures and spread its values wherever possible. With alien civilizations the West must be accommodating if possible, but confrontational if necessary. In the final analysis, however, all civilizations will have to learn to tolerate each other. Subscribe to Foreign Affairs for $32—and receive The Clash of Civilizations?: The Debate absolutely free. This digital reprint includes Huntington's seminal article plus commentary and criticism that it inspired.</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Debate on Clash of Civilizations</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Political Development</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Politics & Society</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Samuel P. Huntington</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Theory</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> United States</a>
+            </li>
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+  <article id="id-T66R78CE" class="mb3" data-tags="appointments-and-executive-changes&nbsp;debate-on-clash-of-civilizations&nbsp;flynn,-michael-t&nbsp;trump,-donald-j&nbsp;united-states-defense-and-military-forces&nbsp;united-states-international-relations&nbsp;united-states-politics-and-government">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="http://www.nytimes.com/2016/11/18/us/politics/michael-flynn-national-security-adviser-donald-trump.html">Trump Is Said to Offer National Security Post to Michael Flynn, Retired General</a></h1>
+        <p>
+          by Matthew Rosenberg on Nov 17, 2016 in The New York Times</p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>The move could put a retired intelligence officer who believes Islamist militancy poses an existential threat in one of the most powerful roles in shaping military and foreign policy.</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Appointments and Executive Changes</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Debate on Clash of Civilizations</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Flynn, Michael T</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Trump, Donald J</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> United States Defense and Military Forces</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> United States International Relations</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> United States Politics and Government</a>
+            </li>
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+
+
+  <article id="id-8QQGN5J9" class="mb3" data-tags="steve-bannon&nbsp;humor">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="https://www.washingtonpost.com/blogs/compost/wp/2016/11/15/give-steve-bannon-a-chance-its-not-like-hes-literally-joseph-goebbels/?utm_term=.344fa86f40af">Give Steve Bannon a chance. It’s not like he’s literally Joseph Goebbels.</a></h1>
+        <p>
+          by Alexandra Petri on Nov 15, 2016 in The Washington Post</p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>Courage!</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Steve Bannon</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> humor</a>
+            </li>
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+  <article id="id-DGJJJNKM" class="mb3" data-tags="">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="http://www.goodreads.com/work/best_book/44848425-between-the-world-and-me">Between the World and Me</a></h1>
+        <p>
+          by Ta-Nehisi Coates </p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>In a series of essays, written as a letter to his son, Coates confronts the notion of race in America and how it has shaped American hist...</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+
+
+  <article id="id-T3VPTHJV" class="mb3" data-tags="">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="https://newrepublic.com/article/138757/obama-warning-america-trumps-presidency-listening">Obama Is Warning America About Trump’s Presidency. Are You Listening?</a></h1>
+        <p>
+          by Brian Beutler on Nov 15, 2016 </p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>His remarks on Monday contained some of the most terrifying words since the election results were announced.</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+  <article id="id-PNENNAPF" class="mb3" data-tags="democratic-party&nbsp;elitism&nbsp;liberalism">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="http://www.vox.com/2016/4/21/11451378/smug-american-liberalism">The smug style in American liberalism</a></h1>
+        <p>
+          by Emmett Rensin on Apr 21, 2016 </p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>How liberals came to look down on the people they once tried to help.</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Democratic Party</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Elitism</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Liberalism</a>
+            </li>
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+
+
+  <article id="id-E79XIW97" class="mb3" data-tags="">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="http://www.dailykos.com/story/2016/11/10/1595617/-The-architect-of-the-most-racist-law-in-modern-American-history-has-been-named-to-Trump-s-team">The architect of the most racist law in modern American history has been named to Trump's team</a></h1>
+        <p>
+          </p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>Kris Kobach, the extremely controversial Kansas secretary of state, has been named to Donald Trump's transition team. 
+
+
+ Kansas Secretary of State Kris Kobach has been asked to join President-elect Donald Trump’s transition team.
+
+ The team will...</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+  <article id="id-B7MKEBFU" class="mb3" data-tags="carrier-corp&nbsp;indiana&nbsp;labor-and-jobs&nbsp;mexico&nbsp;presidential-election-of-2016&nbsp;trump,-donald-j">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="http://www.nytimes.com/2016/11/13/business/economy/can-trump-save-their-jobs-theyre-counting-on-it.html">Can Trump Save Their Jobs? They’re Counting on It</a></h1>
+        <p>
+          by Nelson D. Schwartz on Nov 12, 2016 in The New York Times</p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>Employees of a Carrier plant that is scheduled to move to Mexico in 2019 say they expect the president-elect to follow through on his vow to come to their aid.</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Carrier Corp</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Indiana</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Labor and Jobs</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Mexico</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Presidential Election of 2016</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Trump, Donald J</a>
+            </li>
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+  <article id="id-BG84M4PX" class="mb3" data-tags="">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="https://www.washingtonpost.com/politics/trump-and-aides-hedge-on-major-pledges-including-obamacare-and-the-wall/2016/11/11/9196b364-a82f-11e6-8fc0-7be8f848c492_story.html">Trump and advisers hedge on major pledges, including Obamacare and the wall</a></h1>
+        <p>
+          </p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>The lack of clarity has added to an already chaotic transition after Trump’s upset victory.</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+
+
+
+  <article id="id-NQ3SVTZR" class="mb3" data-tags="clinton,-hillary-rodham&nbsp;democratic-party&nbsp;presidential-election-of-2016&nbsp;trump,-donald-j&nbsp;united-states-politics-and-government">
+    <div class="p2 border">
+        <h1 class="h2 mt0"><a href="http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html">Bernie Sanders: Where the Democrats Go From Here</a></h1>
+        <p>
+          by Bernie Sanders on Nov 11, 2016 in The New York Times</p>
+
+
+        <div>
+          <p class="h3 mb1">Abstract</p>
+          <p>Trump’s victory is saddening, but not surprising.</p>
+        </div>
+
+        <!--
+        <p class="quote"></p>
+        <p class="comment"></p>
+        <p class="seeAlso"></p>
+        -->
+        <div>
+          <ul class="list-reset inline">
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Clinton, Hillary Rodham</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Democratic Party</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Presidential Election of 2016</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> Trump, Donald J</a>
+            </li>
+
+            <li class="inline">
+              <a href="" class="pr1 mb1 tag"> United States Politics and Government</a>
+            </li>
+
+          </ul>
+        </div>
+    </div>
+  </article>
+
+
+</div>
+
+<!--
+    REFERENCES
+    - https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes
+-->
+
+        </main>
+
+      </div>
+    </div>
+
+    <script>
+    var elem = document.querySelector('#main');
+    var iso = new Isotope( elem, {
+      // options
+      itemSelector: '[data-tags]',
+      layoutMode: 'fitRows'
+    });
+
+    // init Isotope
+    var $grid = $('#main').isotope({
+      itemSelector: '[data-tags]'
+    });
+
+    // store filter for each group
+    var filters = [];
+
+    // change is-checked class on buttons
+    $('#filters').on( 'click', 'button', function( event ) {
+      var $target = $( event.currentTarget );
+      $target.toggleClass('is-checked');
+      var isChecked = $target.hasClass('is-checked');
+      var filter = $target.attr('data-tags');
+      if ( isChecked ) {
+        addFilter( filter );
+      } else {
+        removeFilter( filter );
+      }
+      // filter isotope
+      // group filters together, inclusive
+      $grid.isotope({ filter: filters.join(',') });
+    });
+
+    function addFilter( filter ) {
+      if ( filters.indexOf( filter ) == -1 ) {
+        filters.push( filter );
+      }
+    }
+
+    function removeFilter( filter ) {
+      var index = filters.indexOf( filter);
+      if ( index != -1 ) {
+        filters.splice( index, 1 );
+      }
+    }
+
+
+    </script>
+
+  </body>
+
+</html>
