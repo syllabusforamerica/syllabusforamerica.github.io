@@ -1,13 +1,11 @@
-<div>
-  <ul class="list-reset" id="filters">
-    {% assign tags = site.data.zoteroTags | sort: 'tag' %}
-    {% for tag in tags %}
-    <li class="mb1">
-      <button class="tag" data-filter="{{ tag.tag | downcase | replace: " ", "-" }}">{{ tag.tag }}</button>
-    </li>
-    {% endfor %}
-  </ul>
-</div>
+<ol id="filters" class="list-reset">
+  {% assign tags = site.data.zoteroTags | sort: 'tag' %}
+  {% for tag in tags %}
+  <li class="mb1">
+    <button class="tag" data-filter="{{ tag.tag | downcase | replace: " ", "-" }}">{{ tag.tag }}</button>
+  </li>
+  {% endfor %}
+</ol>
 
 <!--
     REFERENCES

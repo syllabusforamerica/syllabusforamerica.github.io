@@ -1,4 +1,4 @@
-<div id="main">
+<div id="grid">
 {% for item in site.data.zoteroItems %}
   {% if item.links.up == null  %}
   <article id="id-{{ item.key }}" class="mb3" data-tags="{% for tag in item.data.tags %}{{ tag.tag | downcase | replace: " ", "-" }}{% if tag != item.data.tags.last %}&nbsp;{% endif %}{% endfor %}">
