@@ -1,5 +1,143 @@
 [
     {
+        "key": "E9IXJPVP",
+        "version": 29,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/E9IXJPVP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/E9IXJPVP",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/ITEB5KC5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "E9IXJPVP",
+            "version": 29,
+            "parentItem": "ITEB5KC5",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "The Atlantic Snapshot",
+            "accessDate": "2016-11-18T22:51:10Z",
+            "url": "http://www.theatlantic.com/politics/archive/2015/12/hope-and-the-historian/419961/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "Coates - 2015 - Hope and the Historian.html",
+            "md5": "2dabc7a21206343a409adbd984e7bb24",
+            "mtime": 1479509928000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T22:58:48Z",
+            "dateModified": "2016-11-18T22:58:48Z"
+        }
+    },
+    {
+        "key": "ITEB5KC5",
+        "version": 28,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/ITEB5KC5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/ITEB5KC5",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Coates",
+            "parsedDate": "2015-12-10",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "ITEB5KC5",
+            "version": 28,
+            "itemType": "magazineArticle",
+            "title": "Hope and the Historian",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ta-Nehisi",
+                    "lastName": "Coates"
+                }
+            ],
+            "abstractNote": "Writers who commit themselves to only writing hopeful things are committing themselves to the ahistorical and the mythical.",
+            "publicationTitle": "The Atlantic",
+            "volume": "",
+            "issue": "",
+            "date": "Dec 10, 2015",
+            "pages": "",
+            "language": "",
+            "ISSN": "1072-7825",
+            "shortTitle": "",
+            "url": "http://www.theatlantic.com/politics/archive/2015/12/hope-and-the-historian/419961/",
+            "accessDate": "2016-11-18T22:51:09Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "The Atlantic",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-18T22:58:48Z",
+            "dateModified": "2016-11-18T22:58:48Z"
+        }
+    },
+    {
         "key": "HM7SIBWH",
         "version": 26,
         "library": {
@@ -747,7 +885,7 @@
     },
     {
         "key": "DGJJJNKM",
-        "version": 15,
+        "version": 32,
         "library": {
             "type": "group",
             "id": 814853,
@@ -786,7 +924,7 @@
         },
         "data": {
             "key": "DGJJJNKM",
-            "version": 15,
+            "version": 32,
             "itemType": "book",
             "title": "Between the World and Me",
             "creators": [
@@ -817,10 +955,12 @@
             "callNumber": "",
             "rights": "",
             "extra": "",
-            "tags": [],
-            "collections": [
-                "JDP77F96"
+            "tags": [
+                {
+                    "tag": "Introduction"
+                }
             ],
+            "collections": [],
             "relations": {},
             "dateAdded": "2016-11-16T17:34:24Z",
             "dateModified": "2016-11-16T17:35:08Z"
@@ -1621,166 +1761,6 @@
             "relations": {},
             "dateAdded": "2016-11-15T00:33:08Z",
             "dateModified": "2016-11-15T00:33:08Z"
-        }
-    },
-    {
-        "key": "H75P4UFF",
-        "version": 3,
-        "library": {
-            "type": "group",
-            "id": 814853,
-            "name": "SyllabusforAmerica",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/syllabusforamerica",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/items/H75P4UFF",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/syllabusforamerica/items/H75P4UFF",
-                "type": "text/html"
-            },
-            "up": {
-                "href": "https://api.zotero.org/groups/814853/items/NQ3SVTZR",
-                "type": "application/json"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 974464,
-                "username": "asackmann",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/asackmann",
-                        "type": "text/html"
-                    }
-                }
-            }
-        },
-        "data": {
-            "key": "H75P4UFF",
-            "version": 3,
-            "parentItem": "NQ3SVTZR",
-            "itemType": "attachment",
-            "linkMode": "imported_url",
-            "title": "New York Times Snapshot",
-            "accessDate": "2016-11-14T22:47:57Z",
-            "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html?smprod=nytcore-iphone&smid=nytcore-iphone-share",
-            "note": "",
-            "contentType": "text/html",
-            "charset": "utf-8",
-            "filename": "bernie-sanders-where-the-democrats-go-from-here.html",
-            "md5": "566d0b29ef039495ad3fd4df769a218f",
-            "mtime": 1479163678000,
-            "tags": [],
-            "relations": {},
-            "dateAdded": "2016-11-14T22:47:57Z",
-            "dateModified": "2016-11-14T22:47:57Z"
-        }
-    },
-    {
-        "key": "NQ3SVTZR",
-        "version": 2,
-        "library": {
-            "type": "group",
-            "id": 814853,
-            "name": "SyllabusforAmerica",
-            "links": {
-                "alternate": {
-                    "href": "https://www.zotero.org/groups/syllabusforamerica",
-                    "type": "text/html"
-                }
-            }
-        },
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/items/NQ3SVTZR",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "https://www.zotero.org/groups/syllabusforamerica/items/NQ3SVTZR",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "createdByUser": {
-                "id": 974464,
-                "username": "asackmann",
-                "name": "",
-                "links": {
-                    "alternate": {
-                        "href": "https://www.zotero.org/asackmann",
-                        "type": "text/html"
-                    }
-                }
-            },
-            "creatorSummary": "Sanders",
-            "parsedDate": "2016-11-11",
-            "numChildren": 2
-        },
-        "data": {
-            "key": "NQ3SVTZR",
-            "version": 2,
-            "itemType": "newspaperArticle",
-            "title": "Bernie Sanders: Where the Democrats Go From Here",
-            "creators": [
-                {
-                    "creatorType": "author",
-                    "firstName": "Bernie",
-                    "lastName": "Sanders"
-                }
-            ],
-            "abstractNote": "Trump’s victory is saddening, but not surprising.",
-            "publicationTitle": "The New York Times",
-            "place": "",
-            "edition": "",
-            "date": "2016-11-11",
-            "section": "",
-            "pages": "",
-            "language": "",
-            "shortTitle": "Bernie Sanders",
-            "ISSN": "0362-4331",
-            "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
-            "accessDate": "2016-11-14T22:47:57Z",
-            "archive": "",
-            "archiveLocation": "",
-            "libraryCatalog": "NYTimes.com",
-            "callNumber": "",
-            "rights": "",
-            "extra": "",
-            "tags": [
-                {
-                    "tag": "Clinton, Hillary Rodham",
-                    "type": 1
-                },
-                {
-                    "tag": "Democratic Party",
-                    "type": 1
-                },
-                {
-                    "tag": "Presidential Election of 2016",
-                    "type": 1
-                },
-                {
-                    "tag": "Trump, Donald J",
-                    "type": 1
-                },
-                {
-                    "tag": "United States Politics and Government",
-                    "type": 1
-                }
-            ],
-            "collections": [],
-            "relations": {},
-            "dateAdded": "2016-11-14T22:47:57Z",
-            "dateModified": "2016-11-14T22:47:57Z"
         }
     }
 ]

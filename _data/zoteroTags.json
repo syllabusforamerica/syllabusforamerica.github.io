@@ -1,5 +1,22 @@
 [
     {
+        "tag": "Introduction",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Introduction",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Introduction",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 0,
+            "numItems": 1
+        }
+    },
+    {
         "tag": "Debate on Clash of Civilizations",
         "links": {
             "self": {
@@ -14,6 +31,23 @@
         "meta": {
             "type": 0,
             "numItems": 4
+        }
+    },
+    {
+        "tag": "Samuel P. Huntington",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Samuel+P.+Huntington",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Samuel+P.+Huntington",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
         }
     },
     {
@@ -76,23 +110,6 @@
             },
             "alternate": {
                 "href": "http://zotero.org/groups/814853/tags/Politics+%26+Society",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Samuel P. Huntington",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Samuel+P.+Huntington",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Samuel+P.+Huntington",
                 "type": "text/html"
             }
         },
@@ -170,23 +187,6 @@
         }
     },
     {
-        "tag": "United States Politics and Government",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/United+States+Politics+and+Government",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/United+States+Politics+and+Government",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 2
-        }
-    },
-    {
         "tag": "Flynn, Michael T",
         "links": {
             "self": {
@@ -201,6 +201,23 @@
         "meta": {
             "type": 1,
             "numItems": 1
+        }
+    },
+    {
+        "tag": "United States Politics and Government",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/United+States+Politics+and+Government",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/United+States+Politics+and+Government",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 2
         }
     },
     {

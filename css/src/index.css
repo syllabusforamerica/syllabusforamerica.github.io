@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+/*!* * * * * * * * * * * * * * * * * * *
+ *     Styling for                     *
+ *     SyllabusForAmerica.github.io    *
+ *     built ontop of Basscss          *
+ *                                     *
+ *     author: @bzelip                 *
+ * * * * * * * * * * * * * * * * * * * */
+
+@import "basscss/css/basscss.min.css";
+@import "syllabus.css";

@@ -1,1 +1,2 @@
 title: "A Syllabus for America, 2017- "
+exclude: [node_modules/]

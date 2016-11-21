@@ -4,8 +4,9 @@
   "description": "Paying attention to the impact of the 2016 US presidential election.",
   "main": "index.html",
   "scripts": {
+    "css": "postcss -c postcss.config.json",
     "test": "echo \"Error: no test specified\" && exit 1",
-    "update": "node getZoteroData.js"
+    "zotero": "node getZoteroData.js"
   },
   "repository": {
     "type": "git",
@@ -18,7 +19,15 @@
   },
   "homepage": "https://github.com/syllabusforamerica/syllabusforamerica.github.io#readme",
   "devDependencies": {
-    "request": "^2.78.0",
-    "slug": "^0.9.1"
+    "basscss": "^7.1.1",
+    "cssnano": "^3.8.0",
+    "postcss": "^5.2.5",
+    "postcss-cli": "^2.6.0",
+    "postcss-cssnext": "^2.8.0",
+    "postcss-custom-media": "^5.0.1",
+    "postcss-custom-properties": "^5.0.1",
+    "postcss-import": "^8.2.0",
+    "postcss-normalize-charset": "^1.1.1",
+    "request": "^2.78.0"
   }
 }
