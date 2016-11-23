@@ -1,11 +1,6 @@
 
 {
-  "use": ["postcss-import", "cssnano", "postcss-normalize-charset", "postcss-cssnext", "postcss-custom-properties", "postcss-custom-media"],
+  "use": ["postcss-import", "cssnano", "postcss-cssnext", "postcss-custom-properties", "postcss-custom-media"],
   "input": "css/src/index.css",
-  "output": "css/syllabus.min.css",
-  "cssnano": {
-    "normalizeCharset": {
-      "add": true
-    }
-  }
+  "output": "css/syllabus.min.css"
 }

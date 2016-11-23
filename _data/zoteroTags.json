@@ -1,5 +1,311 @@
 [
     {
+        "tag": "21st century",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/21st+century",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/21st+century",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "South Dakota",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/South+Dakota",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/South+Dakota",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Abortifacients",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Abortifacients",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Abortifacients",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Law and legislation",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Law+and+legislation",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Law+and+legislation",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Abortion",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Abortion",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Abortion",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Abortion applicants",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Abortion+applicants",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Abortion+applicants",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Abortion services",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Abortion+services",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Abortion+services",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Moral and ethical aspects",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Moral+and+ethical+aspects",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Moral+and+ethical+aspects",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Pregnancy",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Pregnancy",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Pregnancy",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Pregnant women",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Pregnant+women",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Pregnant+women",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Unwanted",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Unwanted",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Unwanted",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Decision making",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Decision+making",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Decision+making",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Women’s rights",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Women%E2%80%99s+rights",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Women%E2%80%99s+rights",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Pro-choice movement",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Pro-choice+movement",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Pro-choice+movement",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Pro-life movement",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Pro-life+movement",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Pro-life+movement",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Rapid City",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Rapid+City",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Rapid+City",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Rapid City (S.D.)",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Rapid+City+%28S.D.%29",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Rapid+City+%28S.D.%29",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
+        "tag": "Social conditions",
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/tags/Social+conditions",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "http://zotero.org/groups/814853/tags/Social+conditions",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "type": 1,
+            "numItems": 1
+        }
+    },
+    {
         "tag": "Introduction",
         "links": {
             "self": {
@@ -31,23 +337,6 @@
         "meta": {
             "type": 0,
             "numItems": 4
-        }
-    },
-    {
-        "tag": "Samuel P. Huntington",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Samuel+P.+Huntington",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Samuel+P.+Huntington",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
         }
     },
     {
@@ -119,303 +408,14 @@
         }
     },
     {
-        "tag": "Appointments and Executive Changes",
+        "tag": "Samuel P. Huntington",
         "links": {
             "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Appointments+and+Executive+Changes",
+                "href": "https://api.zotero.org/groups/814853/tags/Samuel+P.+Huntington",
                 "type": "application/json"
             },
             "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Appointments+and+Executive+Changes",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Trump, Donald J",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Trump%2C+Donald+J",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Trump%2C+Donald+J",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 3
-        }
-    },
-    {
-        "tag": "United States Defense and Military Forces",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/United+States+Defense+and+Military+Forces",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/United+States+Defense+and+Military+Forces",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "United States International Relations",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/United+States+International+Relations",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/United+States+International+Relations",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Flynn, Michael T",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Flynn%2C+Michael+T",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Flynn%2C+Michael+T",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "United States Politics and Government",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/United+States+Politics+and+Government",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/United+States+Politics+and+Government",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 2
-        }
-    },
-    {
-        "tag": "Steve Bannon",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Steve+Bannon",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Steve+Bannon",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 0,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "humor",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/humor",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/humor",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 0,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Liberalism",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Liberalism",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Liberalism",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 0,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Elitism",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Elitism",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Elitism",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 0,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Democratic Party",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Democratic+Party",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Democratic+Party",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 0,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Carrier Corp",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Carrier+Corp",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Carrier+Corp",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Indiana",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Indiana",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Indiana",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Labor and Jobs",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Labor+and+Jobs",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Labor+and+Jobs",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Mexico",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Mexico",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Mexico",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Presidential Election of 2016",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Presidential+Election+of+2016",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Presidential+Election+of+2016",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 2
-        }
-    },
-    {
-        "tag": "Clinton, Hillary Rodham",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Clinton%2C+Hillary+Rodham",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Clinton%2C+Hillary+Rodham",
-                "type": "text/html"
-            }
-        },
-        "meta": {
-            "type": 1,
-            "numItems": 1
-        }
-    },
-    {
-        "tag": "Democratic Party",
-        "links": {
-            "self": {
-                "href": "https://api.zotero.org/groups/814853/tags/Democratic+Party",
-                "type": "application/json"
-            },
-            "alternate": {
-                "href": "http://zotero.org/groups/814853/tags/Democratic+Party",
+                "href": "http://zotero.org/groups/814853/tags/Samuel+P.+Huntington",
                 "type": "text/html"
             }
         },

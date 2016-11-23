@@ -3,8 +3,8 @@ const request = require('request');
 
 // Zotero APIs
 const api = 'https://api.zotero.org/groups/814853/';
-const apiTags = api + 'tags';
-const apiItems = api + 'items';
+const apiTags = api + 'tags?v=3';
+const apiItems = api + 'items?v=3&limit=100';
 
 
 // getTags() function:
@@ -20,6 +20,7 @@ function getTags() {
   };
   function callback(error, response, body) {
     if (!error && response.statusCode == 200) {
+      console.log('tags.length is: ' + JSON.parse(body).length);
       fs.writeFile('_data/zoteroTags.json', body);
     }
   }
@@ -41,6 +42,7 @@ function getItems() {
   };
   function callback(error, response, body) {
     if (!error && response.statusCode == 200) {
+      console.log('items.length is: ' + JSON.parse(body).length);
       fs.writeFile('_data/zoteroItems.json', body);
     }
   }
@@ -48,30 +50,30 @@ function getItems() {
   return;
 }
 
-// getMainItems() function:
+// getTopItems() function:
 //  1. Sends request for all main items (top level items) in library
 //  2. Gets response data
 //  3. Writes data to file
-function getMainItems() {
+function getTopItems() {
   const options = {
-    url: apiItems,
+    url: 'https://api.zotero.org/groups/814853/items/top?v=3&limit=50',
     headers: {
       'User-Agent': 'request'
     }
   };
   function callback(error, response, body) {
-    let mainItems = [];
+    let topItems = [];
     if (!error && response.statusCode == 200) {
       var data = JSON.parse(body);
       //console.log('data.length is: ' + data.length);
       for (i=0; i<data.length; i++) {
         if (!data[i]['links']['up']) {
-          mainItems.push(data[i]);
+          topItems.push(data[i]);
         }
       }
-      //console.log('mainItems.length is: ' + mainItems.length);
-      //console.log(mainItems);
-      fs.writeFile('_data/zoteroMainItems.json', JSON.stringify(mainItems, null, 2));
+      console.log('topItems.length is: ' + topItems.length);
+      //console.log(topItems);
+      fs.writeFile('_data/zoteroTopItems.json', JSON.stringify(topItems, null, 2));
     }
   }
   request(options, callback);
@@ -82,7 +84,7 @@ function getMainItems() {
 // Invoke each function
 getTags();
 getItems();
-// getMainItems();// THIS MAY NOT NEED TO BE USED
+getTopItems();
 
 /*
   REFERENCES

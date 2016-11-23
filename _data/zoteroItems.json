@@ -1,5 +1,2243 @@
 [
     {
+        "key": "6UUR66BT",
+        "version": 60,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/6UUR66BT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/6UUR66BT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/FMUWVKKJ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "6UUR66BT",
+            "version": 60,
+            "parentItem": "FMUWVKKJ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "The Atlantic Snapshot",
+            "accessDate": "2016-11-21T23:31:09Z",
+            "url": "http://www.theatlantic.com/education/archive/2016/11/teaching-1984-in-2016/508226/?utm_source=atlfb",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "508226.html",
+            "md5": "a70a3a29ee8128eace9e6d54407cf74c",
+            "mtime": 1479771070000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:31:09Z",
+            "dateModified": "2016-11-21T23:31:09Z"
+        }
+    },
+    {
+        "key": "FMUWVKKJ",
+        "version": 59,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/FMUWVKKJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/FMUWVKKJ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Simmons",
+            "parsedDate": "2016-11-20",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "FMUWVKKJ",
+            "version": 59,
+            "itemType": "magazineArticle",
+            "title": "Teaching 1984 in 2016",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Andrew",
+                    "lastName": "Simmons"
+                }
+            ],
+            "abstractNote": "Every year, one high-school educator converts his classroom into a totalitarian state to teach George Orwell’s book. This year, the lesson feels different.",
+            "publicationTitle": "The Atlantic",
+            "volume": "",
+            "issue": "",
+            "date": "Nov 20, 2016",
+            "pages": "",
+            "language": "",
+            "ISSN": "1072-7825",
+            "shortTitle": "",
+            "url": "http://www.theatlantic.com/education/archive/2016/11/teaching-1984-in-2016/508226/?utm_source=atlfb",
+            "accessDate": "2016-11-21T23:31:07Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "The Atlantic",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:31:07Z",
+            "dateModified": "2016-11-21T23:31:07Z"
+        }
+    },
+    {
+        "key": "RURPMJR8",
+        "version": 59,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/RURPMJR8",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/RURPMJR8",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/M2S9ZFWG",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "RURPMJR8",
+            "version": 59,
+            "parentItem": "M2S9ZFWG",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Pence says he ‘wasn’t offended’ by ‘Hamilton’ as Trump continues to demand an apology - The Washington Post",
+            "accessDate": "2016-11-21T23:30:41Z",
+            "url": "https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/11/20/pence-says-he-wasnt-offended-by-hamilton-as-trump-continues-to-demand-an-apology/?wpisrc=al_alert-COMBO-politics%252Bnation",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "pence-says-he-wasnt-offended-by-hamilton-as-trump-continues-to-demand-an-apology.html",
+            "md5": "7a9b5e344e83d0659b4abb838380a397",
+            "mtime": 1479771041000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:30:41Z",
+            "dateModified": "2016-11-21T23:30:41Z"
+        }
+    },
+    {
+        "key": "M2S9ZFWG",
+        "version": 58,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/M2S9ZFWG",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/M2S9ZFWG",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "M2S9ZFWG",
+            "version": 58,
+            "itemType": "webpage",
+            "title": "Pence says he ‘wasn’t offended’ by ‘Hamilton’ as Trump continues to demand an apology - The Washington Post",
+            "creators": [],
+            "abstractNote": "",
+            "websiteTitle": "",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "https://www.washingtonpost.com/news/arts-and-entertainment/wp/2016/11/20/pence-says-he-wasnt-offended-by-hamilton-as-trump-continues-to-demand-an-apology/?wpisrc=al_alert-COMBO-politics%252Bnation",
+            "accessDate": "2016-11-21T23:30:40Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:30:40Z",
+            "dateModified": "2016-11-21T23:30:40Z"
+        }
+    },
+    {
+        "key": "FH9FH39E",
+        "version": 57,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/FH9FH39E",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/FH9FH39E",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/4A9M3G5T",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "FH9FH39E",
+            "version": 57,
+            "parentItem": "4A9M3G5T",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:25:04Z",
+            "url": "https://www.brookings.edu/blog/the-avenue/2016/11/18/it-wont-be-easy-to-bring-back-millions-of-manufacturing-jobs/?utm_campaign=Brookings+Brief&utm_source=hs_email&utm_medium=email&utm_content=37915401",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "it-wont-be-easy-to-bring-back-millions-of-manufacturing-jobs.html",
+            "md5": "7cffe6f75c7fa249f315641c117e62ce",
+            "mtime": 1479770705000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:25:04Z",
+            "dateModified": "2016-11-21T23:25:04Z"
+        }
+    },
+    {
+        "key": "4A9M3G5T",
+        "version": 55,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/4A9M3G5T",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/4A9M3G5T",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "parsedDate": "2016-11-18",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "4A9M3G5T",
+            "version": 55,
+            "itemType": "blogPost",
+            "title": "It won’t be easy to bring back millions of manufacturing jobs | Brookings Institution",
+            "creators": [],
+            "abstractNote": "Manufacturing employment has in fact ticked up since 2010, reflecting the post-crisis auto boom and the relative strength of the nation’s advanced manufacturing industries. But that hasn’t mollified angry displaced workers.",
+            "blogTitle": "Brookings",
+            "websiteType": "",
+            "date": "2016-11-18T17:02:07+00:00",
+            "url": "https://www.brookings.edu/blog/the-avenue/2016/11/18/it-wont-be-easy-to-bring-back-millions-of-manufacturing-jobs/",
+            "accessDate": "2016-11-21T23:25:04Z",
+            "language": "",
+            "shortTitle": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:25:04Z",
+            "dateModified": "2016-11-21T23:25:04Z"
+        }
+    },
+    {
+        "key": "D4FXPQ2D",
+        "version": 55,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/D4FXPQ2D",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/D4FXPQ2D",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/59RH4XBA",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "D4FXPQ2D",
+            "version": 55,
+            "parentItem": "59RH4XBA",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:23:19Z",
+            "url": "https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "1611114266432-e23ea1a6.html",
+            "md5": "66ffb3e313b6db3dbdc16572b10038f0",
+            "mtime": 1479770599000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:23:19Z",
+            "dateModified": "2016-11-21T23:23:19Z"
+        }
+    },
+    {
+        "key": "59RH4XBA",
+        "version": 54,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/59RH4XBA",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/59RH4XBA",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Kendzior",
+            "parsedDate": "2016-11-18",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "59RH4XBA",
+            "version": 54,
+            "itemType": "webpage",
+            "title": "We’re heading into dark times. This is how to be your own light in the Age of Trump",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Sarah",
+                    "lastName": "Kendzior"
+                }
+            ],
+            "abstractNote": "Having studied authoritarian states for over a decade, I would never exaggerate the severity of the threat we now face. But an American kleptocracy is exactly where president-elect Trump and his backers are taking us. That’s why I have a favor to ask you, my fellow Americans.",
+            "websiteTitle": "The Correspondent",
+            "websiteType": "",
+            "date": "2016-11-18T14:05:42+00:00",
+            "shortTitle": "",
+            "url": "https://thecorrespondent.com/5696/were-heading-into-dark-times-this-is-how-to-be-your-own-light-in-the-age-of-trump/1611114266432-e23ea1a6",
+            "accessDate": "2016-11-21T23:23:19Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:23:19Z",
+            "dateModified": "2016-11-21T23:23:19Z"
+        }
+    },
+    {
+        "key": "I4AZ7XGT",
+        "version": 53,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/I4AZ7XGT",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/I4AZ7XGT",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/GAQSE9JM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "I4AZ7XGT",
+            "version": 53,
+            "parentItem": "GAQSE9JM",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:18:59Z",
+            "url": "http://www.rawstory.com/2016/11/stop-asking-me-to-empathize-with-the-white-working-class/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "stop-asking-me-to-empathize-with-the-white-working-class.html",
+            "md5": "8c8255425df238cd2fef0fedb68b9f06",
+            "mtime": 1479770340000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:18:59Z",
+            "dateModified": "2016-11-21T23:18:59Z"
+        }
+    },
+    {
+        "key": "GAQSE9JM",
+        "version": 52,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/GAQSE9JM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/GAQSE9JM",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "GAQSE9JM",
+            "version": 52,
+            "itemType": "webpage",
+            "title": "Stop asking me to empathize with the white working class",
+            "creators": [],
+            "abstractNote": "",
+            "websiteTitle": "",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "http://www.rawstory.com/2016/11/stop-asking-me-to-empathize-with-the-white-working-class/",
+            "accessDate": "2016-11-21T23:18:59Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:18:59Z",
+            "dateModified": "2016-11-21T23:18:59Z"
+        }
+    },
+    {
+        "key": "7PUMSUR2",
+        "version": 53,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/7PUMSUR2",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/7PUMSUR2",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/E9VQXW6I",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "7PUMSUR2",
+            "version": 53,
+            "parentItem": "E9VQXW6I",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Harper's Snapshot",
+            "accessDate": "2016-11-21T23:18:38Z",
+            "url": "http://harpers.org/archive/2016/12/with-child/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "with-child.html",
+            "md5": "6f2579a6dffcdaa913dbe9bfb6d41a07",
+            "mtime": 1479770318000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:18:38Z",
+            "dateModified": "2016-11-21T23:18:38Z"
+        }
+    },
+    {
+        "key": "E9VQXW6I",
+        "version": 51,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/E9VQXW6I",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/E9VQXW6I",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Feldman",
+            "parsedDate": "2016-12",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "E9VQXW6I",
+            "version": 51,
+            "itemType": "magazineArticle",
+            "title": "With Child",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Kiera",
+                    "lastName": "Feldman"
+                }
+            ],
+            "abstractNote": "The right to choose in Rapid City",
+            "publicationTitle": "Harper's Magazine",
+            "volume": "",
+            "issue": "",
+            "date": "December 2016",
+            "pages": "",
+            "language": "",
+            "ISSN": "0017-789X",
+            "shortTitle": "",
+            "url": "http://harpers.org/archive/2016/12/with-child/",
+            "accessDate": "2016-11-21T23:18:36Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Harpers",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "21st century",
+                    "type": 1
+                },
+                {
+                    "tag": "Abortifacients",
+                    "type": 1
+                },
+                {
+                    "tag": "Abortion",
+                    "type": 1
+                },
+                {
+                    "tag": "Abortion applicants",
+                    "type": 1
+                },
+                {
+                    "tag": "Abortion services",
+                    "type": 1
+                },
+                {
+                    "tag": "Decision making",
+                    "type": 1
+                },
+                {
+                    "tag": "Law and legislation",
+                    "type": 1
+                },
+                {
+                    "tag": "Moral and ethical aspects",
+                    "type": 1
+                },
+                {
+                    "tag": "Pregnancy",
+                    "type": 1
+                },
+                {
+                    "tag": "Pregnant women",
+                    "type": 1
+                },
+                {
+                    "tag": "Pro-choice movement",
+                    "type": 1
+                },
+                {
+                    "tag": "Pro-life movement",
+                    "type": 1
+                },
+                {
+                    "tag": "Rapid City",
+                    "type": 1
+                },
+                {
+                    "tag": "Rapid City (S.D.)",
+                    "type": 1
+                },
+                {
+                    "tag": "Social conditions",
+                    "type": 1
+                },
+                {
+                    "tag": "South Dakota",
+                    "type": 1
+                },
+                {
+                    "tag": "Unwanted",
+                    "type": 1
+                },
+                {
+                    "tag": "Women’s rights",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:18:36Z",
+            "dateModified": "2016-11-21T23:18:36Z"
+        }
+    },
+    {
+        "key": "GE88UQSD",
+        "version": 50,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/GE88UQSD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/GE88UQSD",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/KSN6BPT5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "GE88UQSD",
+            "version": 50,
+            "parentItem": "KSN6BPT5",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:10:26Z",
+            "url": "http://www.newyorker.com/magazine/2016/11/21/aftermath-sixteen-writers-on-trumps-america#morrison",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "aftermath-sixteen-writers-on-trumps-america.html",
+            "md5": "55f165da3a11c755cfd8a5674bb63e91",
+            "mtime": 1479769826000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:10:26Z",
+            "dateModified": "2016-11-21T23:10:26Z"
+        }
+    },
+    {
+        "key": "KSN6BPT5",
+        "version": 49,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/KSN6BPT5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/KSN6BPT5",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "KSN6BPT5",
+            "version": 49,
+            "itemType": "webpage",
+            "title": "Aftermath: Sixteen New Yorker Writers on Trump’s America",
+            "creators": [],
+            "abstractNote": "Essays by Toni Morrison, Atul Gawande, George Packer, Hilary Mantel, and more.",
+            "websiteTitle": "The New Yorker",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "Aftermath",
+            "url": "http://www.newyorker.com/magazine/2016/11/21/aftermath-sixteen-writers-on-trumps-america",
+            "accessDate": "2016-11-21T23:10:26Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:10:26Z",
+            "dateModified": "2016-11-21T23:10:26Z"
+        }
+    },
+    {
+        "key": "MWQDEAIU",
+        "version": 48,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/MWQDEAIU",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/MWQDEAIU",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/6SF47RJD",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "MWQDEAIU",
+            "version": 48,
+            "parentItem": "6SF47RJD",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:09:41Z",
+            "url": "http://m.dailykos.com/story/2016/11/17/1600850/-Proposed-bill-turns-protesting-into-a-felony",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "-Proposed-bill-turns-protesting-into-a-felony.html",
+            "md5": "fe1f048ebea4570324eba64132313828",
+            "mtime": 1479769781000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:09:41Z",
+            "dateModified": "2016-11-21T23:09:41Z"
+        }
+    },
+    {
+        "key": "6SF47RJD",
+        "version": 47,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/6SF47RJD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/6SF47RJD",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "6SF47RJD",
+            "version": 47,
+            "itemType": "webpage",
+            "title": "Proposed bill turns protesting into a felony",
+            "creators": [],
+            "abstractNote": "Destroying property is a crime. That’s true if the culprit is a single vandal, or a group of people involved in rioting. However, peaceful protesting is a protected right under the First Amendment. Maybe. \n\n \n A Republican Washington state senator who...",
+            "websiteTitle": "Daily Kos",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "http://www.dailykos.com/story/2016/11/17/1600850/-Proposed-bill-turns-protesting-into-a-felony",
+            "accessDate": "2016-11-21T23:09:41Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:09:41Z",
+            "dateModified": "2016-11-21T23:09:41Z"
+        }
+    },
+    {
+        "key": "SZKCN4IR",
+        "version": 48,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/SZKCN4IR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/SZKCN4IR",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/ZPIGRX9I",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "SZKCN4IR",
+            "version": 48,
+            "parentItem": "ZPIGRX9I",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:08:11Z",
+            "url": "http://nymag.com/daily/intelligencer/2016/11/trump-is-shaping-up-as-a-nightmare-for-labor.html",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "trump-is-shaping-up-as-a-nightmare-for-labor.html",
+            "md5": "0d0047b33b2cc0b91f790c6b11e4081a",
+            "mtime": 1479769691000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:08:11Z",
+            "dateModified": "2016-11-21T23:08:11Z"
+        }
+    },
+    {
+        "key": "ZPIGRX9I",
+        "version": 46,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/ZPIGRX9I",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/ZPIGRX9I",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Kilgore",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "ZPIGRX9I",
+            "version": 46,
+            "itemType": "webpage",
+            "title": "Trump Is Shaping Up As a Nightmare for Labor",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Ed",
+                    "lastName": "Kilgore"
+                }
+            ],
+            "abstractNote": "Despite a strong performance among white working-class voters, Trump will very likely tilt labor law and its enforcement strongly toward employers.",
+            "websiteTitle": "Daily Intelligencer",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "http://nymag.com/daily/intelligencer/2016/11/trump-is-shaping-up-as-a-nightmare-for-labor.html",
+            "accessDate": "2016-11-21T23:08:11Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:08:11Z",
+            "dateModified": "2016-11-21T23:08:11Z"
+        }
+    },
+    {
+        "key": "9H8W3ZSJ",
+        "version": 46,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/9H8W3ZSJ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/9H8W3ZSJ",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/3XH58BN7",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "9H8W3ZSJ",
+            "version": 46,
+            "parentItem": "3XH58BN7",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:07:52Z",
+            "url": "https://www.washingtonpost.com/posteverything/wp/2016/11/18/george-takei-they-interned-my-family-dont-let-them-do-it-to-muslims/?utm_term=.c02bd393a4a8",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "george-takei-they-interned-my-family-dont-let-them-do-it-to-muslims.html",
+            "md5": "6b852fee8fc25a3c04835d0f20d2b2f5",
+            "mtime": 1479769673000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:07:52Z",
+            "dateModified": "2016-11-21T23:07:52Z"
+        }
+    },
+    {
+        "key": "3XH58BN7",
+        "version": 45,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/3XH58BN7",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/3XH58BN7",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "3XH58BN7",
+            "version": 45,
+            "itemType": "webpage",
+            "title": "George Takei: They interned my family. Don’t let them do it to Muslims.",
+            "creators": [],
+            "abstractNote": "The United States apologized for locking up Japanese Americans. Have we learned nothing?",
+            "websiteTitle": "Washington Post",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "George Takei",
+            "url": "https://www.washingtonpost.com/posteverything/wp/2016/11/18/george-takei-they-interned-my-family-dont-let-them-do-it-to-muslims/",
+            "accessDate": "2016-11-21T23:07:52Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:07:52Z",
+            "dateModified": "2016-11-21T23:07:52Z"
+        }
+    },
+    {
+        "key": "36NJ5ZGC",
+        "version": 44,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/36NJ5ZGC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/36NJ5ZGC",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/FUFKRF84",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "36NJ5ZGC",
+            "version": 44,
+            "parentItem": "FUFKRF84",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:06:32Z",
+            "url": "http://www.haymarketbooks.org/blogs/15-the-stop-trump-reading-list-from-haymarket-books",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "15-the-stop-trump-reading-list-from-haymarket-books.html",
+            "md5": "e662af61f9efe0f187ae191160f808d0",
+            "mtime": 1479769592000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:06:32Z",
+            "dateModified": "2016-11-21T23:06:32Z"
+        }
+    },
+    {
+        "key": "FUFKRF84",
+        "version": 43,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/FUFKRF84",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/FUFKRF84",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "2016",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "FUFKRF84",
+            "version": 43,
+            "itemType": "webpage",
+            "title": "The Stop Trump Reading List from Haymarket Books",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jim Plank / November 14",
+                    "lastName": "2016"
+                }
+            ],
+            "abstractNote": "Our slogan at Haymarket Books is \"Books for Changing the World.\" But books alone can't change the world; ideas become a material force only through the people who organize and fight for change.  In a sense our entire catalog is made up of \"books to stop Trump and the grotesque system that spawned him;\" we publish books of radical politics, theory, and history intended to arm those looking to understand the world in order to change it.   In that spirit, we've put together this short list for all of you who are looking for resources to understand Trump's election, how we got to this point, and how we can organize to fight for a better world:  Hope in the Dark by Rebecca Solnit  Freedom is a Constant Struggle by Angela Davis  Islamophobia and the Politics of Empire by Deepa Kumar  The Democrats: A Critical History by Lance Selfa  No One Is Illegal: Fighting Racism and State Violence at the U.S.-Mexico Border by Justin Akers Chacón and Mike Davis  For Young People: 101 Changemakers: The Rebels and Radicals Who Changed U.S. History, edited by Michele Bollinger and Dao X. Tran    Splinterlands by John Feffer  From #BlackLivesMatter to Black Liberation by Keeanga-Yamahtta Taylor  Things that Can and Cannot Be Said by Arundhati Roy and John Cusack  The United States of Fear by Tom Engelhardt  Subterranean Fire: A History of Working-Class Radicalism in the United States by Sharon Smith  Howard Zinn Speaks, edited by Anthony Arnove  The Nazis, Capitalism, and the Working Class by Donnie Gluckstein  The Will to Resist: Soldiers Who Refuse to Fight in Iraq and Afghanistan by Dahr Jamail  Rich People Things by Chris Lehmann",
+            "websiteTitle": "haymarketbooks.org",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "http://www.haymarketbooks.org/blogs/15-the-stop-trump-reading-list-from-haymarket-books",
+            "accessDate": "2016-11-21T23:06:32Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:06:32Z",
+            "dateModified": "2016-11-21T23:06:32Z"
+        }
+    },
+    {
+        "key": "KP5WAR4I",
+        "version": 43,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/KP5WAR4I",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/KP5WAR4I",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/2SGGM47J",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "KP5WAR4I",
+            "version": 43,
+            "parentItem": "2SGGM47J",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T23:05:25Z",
+            "url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/11/21/police-citing-ongoing-riot-use-water-cannons-on-dakota-access-protesters-in-freezing-weather/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "police-citing-ongoing-riot-use-water-cannons-on-dakota-access-protesters-in-freezing-weather.html",
+            "md5": "45b69a45bbdbabe0e00b272dfa1240ff",
+            "mtime": 1479769525000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:05:25Z",
+            "dateModified": "2016-11-21T23:05:25Z"
+        }
+    },
+    {
+        "key": "2SGGM47J",
+        "version": 42,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/2SGGM47J",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/2SGGM47J",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "2SGGM47J",
+            "version": 42,
+            "itemType": "webpage",
+            "title": "Police defend use water cannons on Dakota Access protesters in freezing weather",
+            "creators": [],
+            "abstractNote": "As temperatures dropped into the 20s, law enforcement in North Dakota sprayed protesters with water cannons, tear gas.",
+            "websiteTitle": "Washington Post",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "https://www.washingtonpost.com/news/morning-mix/wp/2016/11/21/police-citing-ongoing-riot-use-water-cannons-on-dakota-access-protesters-in-freezing-weather/",
+            "accessDate": "2016-11-21T23:05:25Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T23:05:25Z",
+            "dateModified": "2016-11-21T23:05:25Z"
+        }
+    },
+    {
+        "key": "AEIENIIS",
+        "version": 41,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/AEIENIIS",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/AEIENIIS",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/RNIPG7BM",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "AEIENIIS",
+            "version": 41,
+            "parentItem": "RNIPG7BM",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T22:52:20Z",
+            "url": "https://www.socialeurope.eu/2016/11/democratic-polarisation-pull-ground-right-wing-populism/#",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "democratic-polarisation-pull-ground-right-wing-populism.html",
+            "md5": "55c1995e9602130ed1b647a9cdf2fc81",
+            "mtime": 1479768740000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:52:20Z",
+            "dateModified": "2016-11-21T22:52:20Z"
+        }
+    },
+    {
+        "key": "RNIPG7BM",
+        "version": 40,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/RNIPG7BM",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/RNIPG7BM",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "parsedDate": "2016-11-17",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "RNIPG7BM",
+            "version": 40,
+            "itemType": "blogPost",
+            "title": "How To Pull The Ground From Under Right-wing Populism",
+            "creators": [],
+            "abstractNote": "An interview with Jürgen Habermas.",
+            "blogTitle": "Social Europe",
+            "websiteType": "",
+            "date": "2016-11-17T07:00:11+00:00",
+            "url": "https://www.socialeurope.eu/2016/11/democratic-polarisation-pull-ground-right-wing-populism/",
+            "accessDate": "2016-11-21T22:52:20Z",
+            "language": "",
+            "shortTitle": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:52:20Z",
+            "dateModified": "2016-11-21T22:52:20Z"
+        }
+    },
+    {
+        "key": "2SBKPEM6",
+        "version": 41,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/2SBKPEM6",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/2SBKPEM6",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/DZ6KZBTZ",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "2SBKPEM6",
+            "version": 41,
+            "parentItem": "DZ6KZBTZ",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Slate Snapshot",
+            "accessDate": "2016-11-21T22:43:07Z",
+            "url": "http://www.slate.com/articles/news_and_politics/politics/2016/11/the_democrats_are_already_screwing_up_the_trump_resistance.single.html",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "the_democrats_are_already_screwing_up_the_trump_resistance.single.html",
+            "md5": "996df634eef09273908a1213d93511de",
+            "mtime": 1479768186000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:43:07Z",
+            "dateModified": "2016-11-21T22:43:07Z"
+        }
+    },
+    {
+        "key": "DZ6KZBTZ",
+        "version": 38,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/DZ6KZBTZ",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/DZ6KZBTZ",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Bouie and Bouie",
+            "parsedDate": "2016-11-16",
+            "numChildren": 1
+        },
+        "data": {
+            "key": "DZ6KZBTZ",
+            "version": 38,
+            "itemType": "magazineArticle",
+            "title": "The Democrats Are Screwing Up the Resistance to Donald Trump",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Jamelle",
+                    "lastName": "Bouie"
+                },
+                {
+                    "creatorType": "author",
+                    "firstName": "Jamelle",
+                    "lastName": "Bouie"
+                }
+            ],
+            "abstractNote": "Bernie Sanders and Elizabeth Warren misread the election: You can’t untangle Trump’s populism from his racism.",
+            "publicationTitle": "Slate",
+            "volume": "",
+            "issue": "",
+            "date": "Nov. 16 2016",
+            "pages": "",
+            "language": "en-US",
+            "ISSN": "1091-2339",
+            "shortTitle": "",
+            "url": "http://www.slate.com/articles/news_and_politics/politics/2016/11/the_democrats_are_already_screwing_up_the_trump_resistance.html?wpsrc=sh_all_dt_fb_ru",
+            "accessDate": "2016-11-21T22:43:05Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "Slate",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:43:05Z",
+            "dateModified": "2016-11-21T22:43:05Z"
+        }
+    },
+    {
+        "key": "CS3K2PJD",
+        "version": 38,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/CS3K2PJD",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/CS3K2PJD",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/HN595HR3",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "CS3K2PJD",
+            "version": 38,
+            "parentItem": "HN595HR3",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T22:42:14Z",
+            "url": "http://fusion.net/story/170591/the-next-time-someone-says-all-lives-matter-show-them-these-5-paragraphs/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "the-next-time-someone-says-all-lives-matter-show-them-these-5-paragraphs.html",
+            "md5": "3dbcf83041a8c9df5c981f61e544c6aa",
+            "mtime": 1479768135000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:42:14Z",
+            "dateModified": "2016-11-21T22:42:14Z"
+        }
+    },
+    {
+        "key": "HN595HR3",
+        "version": 37,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/HN595HR3",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/HN595HR3",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "HN595HR3",
+            "version": 37,
+            "itemType": "blogPost",
+            "title": "The Next Time Someone Says 'all Lives Matter,' Show Them These 5 Paragraphs",
+            "creators": [],
+            "abstractNote": "A Reddit user nails it.",
+            "blogTitle": "Fusion",
+            "websiteType": "",
+            "date": "",
+            "url": "http://fusion.net/story/170591/the-next-time-someone-says-all-lives-matter-show-them-these-5-paragraphs/",
+            "accessDate": "2016-11-21T22:42:14Z",
+            "language": "",
+            "shortTitle": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:42:14Z",
+            "dateModified": "2016-11-21T22:42:14Z"
+        }
+    },
+    {
+        "key": "KHCAHSXP",
+        "version": 36,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/KHCAHSXP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/KHCAHSXP",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/FJGRZ5DP",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "KHCAHSXP",
+            "version": 36,
+            "parentItem": "FJGRZ5DP",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T22:41:37Z",
+            "url": "http://www.vox.com/a/thanksgiving-family-debates-2015/black-lives-matter",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "black-lives-matter.html",
+            "md5": "d50cad24df601081d66d4ee3cccf0559",
+            "mtime": 1479768098000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:41:37Z",
+            "dateModified": "2016-11-21T22:41:37Z"
+        }
+    },
+    {
+        "key": "FJGRZ5DP",
+        "version": 35,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/FJGRZ5DP",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/FJGRZ5DP",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "FJGRZ5DP",
+            "version": 35,
+            "itemType": "webpage",
+            "title": "Black Lives Matter | How to Survive Your Family's Thanksgiving Arguments",
+            "creators": [],
+            "abstractNote": "How to respond to your relatives about ISIS, vaccines, Black Lives Matter, and more.",
+            "websiteTitle": "Vox.com",
+            "websiteType": "",
+            "date": "",
+            "shortTitle": "",
+            "url": "http://www.vox.com/a/thanksgiving-family-debates-2015/black-lives-matter",
+            "accessDate": "2016-11-21T22:41:37Z",
+            "language": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:41:37Z",
+            "dateModified": "2016-11-21T22:41:37Z"
+        }
+    },
+    {
+        "key": "2AA24PHC",
+        "version": 34,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/2AA24PHC",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/2AA24PHC",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/DA4DX2K5",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "2AA24PHC",
+            "version": 34,
+            "parentItem": "DA4DX2K5",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "Snapshot",
+            "accessDate": "2016-11-21T22:40:46Z",
+            "url": "http://joshuafoust.com/this-is-not-normal/",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "this-is-not-normal.html",
+            "md5": "13d53ede536c166ca6277c479ec6e902",
+            "mtime": 1479768046000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:40:46Z",
+            "dateModified": "2016-11-21T22:40:46Z"
+        }
+    },
+    {
+        "key": "DA4DX2K5",
+        "version": 33,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/DA4DX2K5",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/DA4DX2K5",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "numChildren": 1
+        },
+        "data": {
+            "key": "DA4DX2K5",
+            "version": 33,
+            "itemType": "blogPost",
+            "title": "This Is Not Normal | Joshua Foust",
+            "creators": [],
+            "abstractNote": "",
+            "blogTitle": "",
+            "websiteType": "",
+            "date": "",
+            "url": "http://joshuafoust.com/this-is-not-normal/",
+            "accessDate": "2016-11-21T22:40:46Z",
+            "language": "",
+            "shortTitle": "",
+            "rights": "",
+            "extra": "",
+            "tags": [],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-21T22:40:46Z",
+            "dateModified": "2016-11-21T22:40:46Z"
+        }
+    },
+    {
         "key": "E9IXJPVP",
         "version": 29,
         "library": {
@@ -1761,6 +3999,166 @@
             "relations": {},
             "dateAdded": "2016-11-15T00:33:08Z",
             "dateModified": "2016-11-15T00:33:08Z"
+        }
+    },
+    {
+        "key": "H75P4UFF",
+        "version": 3,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/H75P4UFF",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/H75P4UFF",
+                "type": "text/html"
+            },
+            "up": {
+                "href": "https://api.zotero.org/groups/814853/items/NQ3SVTZR",
+                "type": "application/json"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            }
+        },
+        "data": {
+            "key": "H75P4UFF",
+            "version": 3,
+            "parentItem": "NQ3SVTZR",
+            "itemType": "attachment",
+            "linkMode": "imported_url",
+            "title": "New York Times Snapshot",
+            "accessDate": "2016-11-14T22:47:57Z",
+            "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html?smprod=nytcore-iphone&smid=nytcore-iphone-share",
+            "note": "",
+            "contentType": "text/html",
+            "charset": "utf-8",
+            "filename": "bernie-sanders-where-the-democrats-go-from-here.html",
+            "md5": "566d0b29ef039495ad3fd4df769a218f",
+            "mtime": 1479163678000,
+            "tags": [],
+            "relations": {},
+            "dateAdded": "2016-11-14T22:47:57Z",
+            "dateModified": "2016-11-14T22:47:57Z"
+        }
+    },
+    {
+        "key": "NQ3SVTZR",
+        "version": 2,
+        "library": {
+            "type": "group",
+            "id": 814853,
+            "name": "SyllabusforAmerica",
+            "links": {
+                "alternate": {
+                    "href": "https://www.zotero.org/groups/syllabusforamerica",
+                    "type": "text/html"
+                }
+            }
+        },
+        "links": {
+            "self": {
+                "href": "https://api.zotero.org/groups/814853/items/NQ3SVTZR",
+                "type": "application/json"
+            },
+            "alternate": {
+                "href": "https://www.zotero.org/groups/syllabusforamerica/items/NQ3SVTZR",
+                "type": "text/html"
+            }
+        },
+        "meta": {
+            "createdByUser": {
+                "id": 974464,
+                "username": "asackmann",
+                "name": "",
+                "links": {
+                    "alternate": {
+                        "href": "https://www.zotero.org/asackmann",
+                        "type": "text/html"
+                    }
+                }
+            },
+            "creatorSummary": "Sanders",
+            "parsedDate": "2016-11-11",
+            "numChildren": 2
+        },
+        "data": {
+            "key": "NQ3SVTZR",
+            "version": 2,
+            "itemType": "newspaperArticle",
+            "title": "Bernie Sanders: Where the Democrats Go From Here",
+            "creators": [
+                {
+                    "creatorType": "author",
+                    "firstName": "Bernie",
+                    "lastName": "Sanders"
+                }
+            ],
+            "abstractNote": "Trump’s victory is saddening, but not surprising.",
+            "publicationTitle": "The New York Times",
+            "place": "",
+            "edition": "",
+            "date": "2016-11-11",
+            "section": "",
+            "pages": "",
+            "language": "",
+            "shortTitle": "Bernie Sanders",
+            "ISSN": "0362-4331",
+            "url": "http://www.nytimes.com/2016/11/12/opinion/bernie-sanders-where-the-democrats-go-from-here.html",
+            "accessDate": "2016-11-14T22:47:57Z",
+            "archive": "",
+            "archiveLocation": "",
+            "libraryCatalog": "NYTimes.com",
+            "callNumber": "",
+            "rights": "",
+            "extra": "",
+            "tags": [
+                {
+                    "tag": "Clinton, Hillary Rodham",
+                    "type": 1
+                },
+                {
+                    "tag": "Democratic Party",
+                    "type": 1
+                },
+                {
+                    "tag": "Presidential Election of 2016",
+                    "type": 1
+                },
+                {
+                    "tag": "Trump, Donald J",
+                    "type": 1
+                },
+                {
+                    "tag": "United States Politics and Government",
+                    "type": 1
+                }
+            ],
+            "collections": [],
+            "relations": {},
+            "dateAdded": "2016-11-14T22:47:57Z",
+            "dateModified": "2016-11-14T22:47:57Z"
         }
     }
 ]
