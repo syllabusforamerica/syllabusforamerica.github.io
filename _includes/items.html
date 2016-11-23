@@ -1,7 +1,9 @@
 <div id="grid">
-{% for item in site.data.zoteroItems %}
+  <!-- it's the `remove: "'"` in the data-tags attribute below
+  that throws the html validity color syntax off in Atom -->
+  {% for item in site.data.zoteroItems %}
   {% if item.links.up == null  %}
-  <article id="id-{{ item.key }}" class="mb3" data-tags="{% for tag in item.data.tags %}{{ tag.tag | downcase | replace: " ", "-" }}{% if tag != item.data.tags.last %}&nbsp;{% endif %}{% endfor %}">
+  <article id="id-{{ item.key }}" class="mb3" data-tags="{% for tag in item.data.tags %}{{ tag.tag | downcase | remove: "’" |  remove: " " | remove: "'" | remove: "(" | remove: ")" | remove: "." | remove: "&" | remove: "-" | remove: "+" | remove: "[" | remove: "]" | remove: "," }}{% if tag != item.data.tags.last %}&nbsp;{% endif %}{% endfor %}">
     <div class="p2 border">
         <h1 class="h2 mt0"><a href="{{ item.data.url }}">{{ item.data.title }}</a></h1>
         <p>
@@ -31,7 +33,7 @@
     </div>
   </article>
   {% endif %}
-{% endfor %}
+  {% endfor %}
 </div>
 
 <!--

@@ -1,19 +1,244 @@
 ---
-layout: default
 ---
-<ol>
-  {% for item in site.data.zoteroItems %}
+<!DOCTYPE html>
+<html lang="en-US">
 
-  {% if item.links.up == null %}
-  <li>GNARLY DUDE, {{ item.key}} IS A PARENT!!</li>
-  {% endif %}
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <link rel="stylesheet" href="css/syllabus.min.css">
+    <title>{{ site.title }}</title>
+    <meta name="description" content="">
+    <meta name="author" content="Brian Zelip">
+    <meta name="keywords" content="">
+    <style>
+      .item {
+        width: 100px;
+        height: 100px;
+        float: left;
+        margin: 5px;
+        padding: 5px;
+      }
+      .item p { margin: 0; }
+      select, label, input { font-size: 1.25rem; }
+      label { margin-right: .625rem; }
+    </style>
+  </head>
 
-  {% endfor %}
+  <body class="px2 sm-px3 bg-pri-light">
 
-</ol>
+    <header>
+      <div class="pt2">
+        <div class="container">
+          <div class="p2 bg-pri-dark pri-light flex align-center justify-between">
+            <h1 class="m0 h3">{{ site.title }}</h1>
+            <div>
+              <a href="" class="btn">about</a>
+            </div>
+          </div>
+        </div>
+      </div>
+    </header>
 
-<!-- <ol>
-  {%for item in site.data.zoteroItems %}
-  <li>{{item.key}}</li>
-  {%endfor%}
-</ol> -->
+    <div class="pt2">
+      <div class="container flex flex-column">
+
+        <section class="">
+          <ol id="filters" class="list-reset">
+            <li class="mb1">
+              <button class="tag" data-filter="21st-century">21st
+            century</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter=
+            "abortifacients">Abortifacients</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="abortion">Abortion</button>
+              </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="abortion-applicants">Abortion
+            applicants</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="abortion-services">Abortion
+            services</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter=
+            "debate-on-clash-of-civilizations">Debate on Clash of Civilizations</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="decision-making">Decision
+            making</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter=
+            "introduction">Introduction</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="law-and-legislation">Law and
+            legislation</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="moral-and-ethical-aspects">Moral
+            and ethical aspects</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="political-development">Political
+            Development</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="politics-&amp;-society">Politics
+            &amp; Society</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter=
+            "pregnancy">Pregnancy</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="pregnant-women">Pregnant
+              women</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="pro-choice-movement">Pro-choice
+            mo  vement</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="pro-life-movement">Pro-life
+            mo  vement</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="rapid-city">Rapid
+              City</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="rapid-city-(s.d.)">Rapid City
+              (S.D.)</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="samuel-p.-huntington">Samuel P.
+            Hunt  ington</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="social-conditions">Social
+            cond  itions</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="south-dakota">South
+              Dakota</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="theory">Th  eory</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter="united-states">United
+              States</button>
+          </li>
+
+            <li class="mb1">
+              <button class="tag" data-fi  lter="unwanted">Unwanted</button>
+            </li>
+
+            <li class="mb1">
+              <button class="tag" data-filter=
+            "women&#8217;s-rights">Women&#8217;s   rights</button>
+          </li>
+          </ol>
+        </section>
+
+        <main>
+          <div id="container"></div>
+        </main>
+
+      </div>
+    </div>
+
+    <script src="https://cdn.jsdelivr.net/jquery/3.1.1/jquery.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/isotope/3.0.1/isotope.pkgd.min.js"></script>
+    <script>
+      // templating
+      var colors = [ 'bg-red', 'bg-green', 'bg-blue', 'bg-orange' ];
+      var sizes = [ 'small', 'medium', 'large' ];
+      var prices = [ 10, 20, 30 ];
+
+      createItems();
+
+      // init Isotope
+      var $container = $('#container').isotope({
+        itemSelector: '[data-tags]'
+      });
+
+      var $output = $('#output');
+
+      // filter with selects and checkboxes
+      var $checkboxes = $('#form-ui input');
+
+      $checkboxes.change( function() {
+        // map input values to an array
+        var inclusives = [];
+        // inclusive filters from checkboxes
+        $checkboxes.each( function( i, elem ) {
+          // if checkbox, use value if checked
+          if ( elem.checked ) {
+            inclusives.push( elem.value );
+          }
+        });
+
+        // combine inclusive filters
+        var filterValue = inclusives.length ? inclusives.join(', ') : '*';
+
+        $output.text( filterValue );
+        $container.isotope({ filter: filterValue })
+      });
+
+      function createItems() {
+
+        var $items;
+        // loop over colors, sizes, prices
+        // create one item for each
+        for (  var i=0; i < colors.length; i++ ) {
+          for ( var j=0; j < sizes.length; j++ ) {
+            for ( var k=0; k < prices.length; k++ ) {
+              var color = colors[i];
+              var size = sizes[j];
+              var price = prices[k];
+              var $item = $('<div />', {
+                'data-tags': 'item ' + color + ' ' + size + ' price' + price
+              });
+              $item.append( '<p>' + size + '</p><p>$' + price + '</p>');
+              // add to items
+              $items = $items ? $items.add( $item ) : $item;
+            }
+          }
+        }
+        $items.appendTo( $('#container') );
+      }
+    </script>
+
+  </body>
+
+</html>
