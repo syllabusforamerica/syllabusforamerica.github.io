@@ -59,7 +59,10 @@ I also tried the first solution of simply changing the listed plugin order. This
 
 ---
 
-<!--
-REFERENCES
-- https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes
--->
+data attributes
+
+https://developer.mozilla.org/en-US/docs/Web/HTML/Global_attributes/data-*
+https://developer.mozilla.org/en-US/docs/Web/API/HTMLElement/dataset
+https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/Using_data_attributes
+http://codepen.io/unit60/pen/ORbdWE
+http://codepen.io/unit60/pen/vXyAzj
