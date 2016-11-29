@@ -1,9 +1,15 @@
-<div id="grid">
+<div id="iso-grid">
   <!-- it's the `remove: "'"` in the data-tags attribute below
   that throws the html validity color syntax off in Atom -->
+  <!-- Have to add `class="right-0"` to all `<article>`s
+  because Isotope applies `postion: absolute` and likely
+  other rules that interfere with my intended layout.
+  The same thing goes for the '.flex-auto' applied to the parent
+  of this include -->
+  {% assign space = " " %}
   {% for item in site.data.zoteroItems %}
   {% if item.links.up == null  %}
-  <article id="id-{{ item.key }}" class="mb3" data-tags="{% for tag in item.data.tags %}{{ tag.tag | downcase | remove: "’" |  remove: " " | remove: "'" | remove: "(" | remove: ")" | remove: "." | remove: "&" | remove: "-" | remove: "+" | remove: "[" | remove: "]" | remove: "," }}{% if tag != item.data.tags.last %}&nbsp;{% endif %}{% endfor %}">
+  <article id="id-{{ item.key }}" class="mb3 right-0" data-tags="{% for tag in item.data.tags %}{{ tag.tag | downcase | remove: "’" |  remove: " " | remove: "'" | remove: "(" | remove: ")" | remove: "." | remove: "&" | remove: "-" | remove: "+" | remove: "[" | remove: "]" | remove: "," | replace: "1", "one" | replace: "2", "two" | replace: "3", "three" | replace: "4", "four" | replace: "5", "five" | replace: "6", "six" | replace: "7", "seven" | replace: "8", "eight" | replace: "9", "nine" | replace: "0", "zero" }}{% if tag != item.data.tags.last %}{{ space }}{% endif %}{% endfor %}">
     <div class="p2 border">
         <h1 class="h2 mt0"><a href="{{ item.data.url }}">{{ item.data.title }}</a></h1>
         <p>
@@ -16,11 +22,6 @@
           <p>{{ item.data.abstractNote }}</p>
         </div>
         {% endif %}
-        <!--
-        <p class="quote">{{ item.quote }}</p>
-        <p class="comment">{{ item.comment }}</p>
-        <p class="seeAlso">{{ item.seeAlso }}</p>
-        -->
         <div>
           <ul class="list-reset inline">
             {% for tag in item.data.tags %}

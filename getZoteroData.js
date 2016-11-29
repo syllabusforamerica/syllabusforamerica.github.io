@@ -3,7 +3,7 @@ const request = require('request');
 
 // Zotero APIs
 const api = 'https://api.zotero.org/groups/814853/';
-const apiTags = api + 'tags?v=3';
+const apiTags = api + 'tags?v=3&limit=100';
 const apiItems = api + 'items?v=3&limit=100';
 
 

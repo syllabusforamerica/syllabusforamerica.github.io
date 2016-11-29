@@ -85,8 +85,6 @@ button:focus {
     - http://isotope.metafizzy.co/filtering.html
 */
 
-.is-checked { background-color: red; }
-
 /*
     .tag adapted from http://codepen.io/wbeeftink/pen/dIaDH
 */
@@ -127,6 +125,8 @@ button:focus {
   cursor: pointer;
 }
 .tag:hover::before { border-right-color: var(--pri-dark); }
+
+.is-checked { background-color: red; }
 
 @custom-media --breakpoint-sm (min-width: 40em);
 @custom-media --breakpoint-md (min-width: 60em);

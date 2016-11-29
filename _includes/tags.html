@@ -1,8 +1,10 @@
-<ol id="filters" class="list-reset">
+<ol id="filter-buttons" class="list-reset">
+  <!-- it's the `remove: "'"` in the data-tags attribute below
+  that throws the html validity color syntax off in Atom -->
   {% assign tags = site.data.zoteroTags | sort: 'tag' %}
   {% for tag in tags %}
   <li class="mb1">
-    <button class="tag" data-filter="{{ tag.tag | downcase | remove: "’" |  remove: " " | remove: "'" | remove: "(" | remove: ")" | remove: "." | remove: "&" | remove: "-" | remove: "+" | remove: "[" | remove: "]" | remove: "," }}">{{ tag.tag }}</button>
+    <button class="tag" data-filter="[data-tags='{{ tag.tag | downcase | remove: "’" |  remove: " " | remove: "'" | remove: "(" | remove: ")" | remove: "." | remove: "&" | remove: "-" | remove: "+" | remove: "[" | remove: "]" | remove: "," | replace: "1", "one" | replace: "2", "two" | replace: "3", "three" | replace: "4", "four" | replace: "5", "five" | replace: "6", "six" | replace: "7", "seven" | replace: "8", "eight" | replace: "9", "nine" | replace: "0", "zero" }}']">{{ tag.tag }}</button>
   </li>
   {% endfor %}
 </ol>
