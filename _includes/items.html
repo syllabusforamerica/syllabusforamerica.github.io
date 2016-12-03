@@ -7,8 +7,8 @@
   The same thing goes for the '.flex-auto' applied to the parent
   of this include -->
   {% assign space = " " %}
-  {% for item in site.data.zoteroItems %}
-  {% if item.links.up == null  %}
+  {% for item in site.data.zoteroTopItems %}
+  {% comment %} needed only when parsing site.data.zoteroItems  "if item.links.up == null" {% endcomment %}
   <article id="id-{{ item.key }}" class="mb3 right-0" data-tags="{% for tag in item.data.tags %}{{ tag.tag | downcase | remove: "’" |  remove: " " | remove: "'" | remove: "(" | remove: ")" | remove: "." | remove: "&" | remove: "-" | remove: "+" | remove: "[" | remove: "]" | remove: "," | replace: "1", "one" | replace: "2", "two" | replace: "3", "three" | replace: "4", "four" | replace: "5", "five" | replace: "6", "six" | replace: "7", "seven" | replace: "8", "eight" | replace: "9", "nine" | replace: "0", "zero" }}{% if tag != item.data.tags.last %}{{ space }}{% endif %}{% endfor %}">
     <div class="p2 border">
         <h1 class="h2 mt0"><a href="{{ item.data.url }}">{{ item.data.title }}</a></h1>
@@ -33,7 +33,7 @@
         </div>
     </div>
   </article>
-  {% endif %}
+  {% comment %} needed only when parsing site.data.zoteroItems "endif" {% endcomment %}
   {% endfor %}
 </div>
 
