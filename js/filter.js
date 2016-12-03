@@ -20,6 +20,7 @@ $('#filter-buttons').on( 'click', 'button', function( event ) {
   // filter isotope
   // group filters together, inclusive
   $grid.isotope({ filter: filters.join(',') });
+  console.log('filters is: ' + filters);
 });
 
 function addFilter( filter ) {

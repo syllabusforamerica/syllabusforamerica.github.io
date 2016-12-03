@@ -36,11 +36,60 @@
       <div class="container flex">
 
         <section class="mr2">
-          {% include tags.html %}
+          <div id="filter-buttons">
+            <button data-filter="[data-tags=one]" class="btn btn-primary mb2">1</button>
+            <button data-filter="[data-tags=two]" class="btn btn-primary mb2">2</button>
+            <button data-filter="[data-tags=three]" class="btn btn-primary mb2">3</button>
+          </div>
         </section>
 
         <main class="flex-grow">
-          {% include items.html %}
+          <div id="isotope-container">
+            <article id="A" class="isotope-item border mb2 p2" data-tags="one two three">
+              <h1 class="h3 mt0">article#A</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas aliquid saepe a ex dignissimos nemo soluta expedita nisi mollitia iure autem excepturi, dolor, fuga, aperiam ratione quia provident. Adipisci, consequatur.</p>
+              <div>
+                <p class="m0"><code>[data-tags]</code>:</p>
+                <ul>
+                  <li>one</li>
+                  <li>two</li>
+                  <li>three</li>
+                </ul>
+              </div>
+            </article>
+            <article id="B" class="isotope-item border mb2 p2" data-tags="two three">
+              <h1 class="h3 mt0">article#B</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est inventore quisquam incidunt laudantium rem porro doloribus laborum adipisci ad. Voluptate corporis laborum optio iste, saepe, ullam quisquam ducimus illo laboriosam.</p>
+              <div>
+                <p class="m0"><code>[data-tags]</code>:</p>
+                <ul>
+                  <li>two</li>
+                  <li>three</li>
+                </ul>
+              </div>
+            </article>
+            <article id="C" class="isotope-item border mb2 p2" data-tags="one">
+              <h1 class="h3 mt0">article#C</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus dicta maiores doloribus dolorem, placeat molestias adipisci, porro id odit ipsa modi facere laborum, rem nesciunt minus accusantium suscipit alias saepe.</p>
+              <div>
+                <p class="m0"><code>[data-tags]</code>:</p>
+                <ul>
+                  <li>one</li>
+                </ul>
+              </div>
+            </article>
+            <article id="D" class="isotope-item border mb2 p2" data-tags="three one">
+              <h1 class="h3 mt0">article#D</h1>
+              <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Suscipit doloribus in culpa laudantium ullam error, doloremque nihil illum, quo explicabo facilis tempora repellat repellendus modi ex! Sequi veniam, quae quos.</p>
+              <div>
+                <p class="m0"><code>[data-tags]</code>:</p>
+                <ul>
+                  <li>three</li>
+                  <li>one</li>
+                </ul>
+              </div>
+            </article>
+          </div>
         </main>
 
       </div>
@@ -49,8 +98,43 @@
     <script src="https://cdn.jsdelivr.net/jquery/3.1.1/jquery.min.js"></script>
     <script src="https://cdn.jsdelivr.net/isotope/3.0.1/isotope.pkgd.min.js"></script>
     <script>
-      //shit goes here
-      
+      // init Isotope
+      var $grid = $('#isotope-container').isotope({
+        itemSelector: 'article'
+      });
+
+      // store user-selected filters
+      let filters = [];
+
+      // change is-checked class on buttons
+      $('#filter-buttons').on( 'click', 'button', function( event ) {
+        const $target = $( event.currentTarget );
+        $target.toggleClass('is-checked');
+        let isChecked = $target.hasClass('is-checked');
+        let filter = $target.attr('data-filter');
+        if ( isChecked ) {
+          addFilter( filter );
+        } else {
+          removeFilter( filter );
+        }
+        // filter isotope
+        // group filters together, inclusive
+        $grid.isotope({ filter: filters.join(',') });
+        console.log('filters is: ' + filters);
+      });
+
+      function addFilter( filter ) {
+        if ( filters.indexOf( filter ) == -1 ) {
+          filters.push( filter );
+        }
+      }
+
+      function removeFilter( filter ) {
+        var index = filters.indexOf( filter);
+        if ( index != -1 ) {
+          filters.splice( index, 1 );
+        }
+      }
     </script>
 
 
